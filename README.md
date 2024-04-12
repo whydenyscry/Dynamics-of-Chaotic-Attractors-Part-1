@@ -69,16 +69,15 @@ begin{bmatrix}
 			\delta \\
 			\varepsilon \\
 			\xi
-		\end{bmatrix}
-		=
-		\begin{bmatrix}
+\end{bmatrix}=
+\begin{bmatrix}
 			0.95 \\
 			0.7 \\
 			0.6 \\
 			3.5 \\
 			0.25 \\
 			0.1
-		\end{bmatrix}
+\end{bmatrix}
 $$
 
 ![The Aizawa Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Aizawa_Attractor.png)
