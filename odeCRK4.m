@@ -1,0 +1,12 @@
+function [t, xsol] = odeCRK4(fun, timeint, tau, incond)
+c_vector = [0 1/2 1/2 1]'; 
+
+A_matrix = [0 0 0 0; 
+            1/2 0 0 0; 
+            0 1/2 0 0; 
+            0 0 1 0];
+
+b_vector = [1/6 1/3 1/3 1/6]';
+
+[t, xsol] = odeExplicitGeneral(c_vector, A_matrix, b_vector, fun, timeint, tau, incond);
+end
