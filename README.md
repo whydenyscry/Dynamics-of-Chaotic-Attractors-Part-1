@@ -80,3 +80,39 @@ $$
 $$
 
 ![The Aizawa Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Aizawa_Attractor.png)
+
+## The Tamari Attractor
+ 
+$$ \begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} =\left(x-\alpha y\right)\cos z-\beta y \sin z, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = \left(x+\gamma y\right)\sin z +\delta y\cos z, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = \varepsilon +\kappa z+\xi\arctan\left(\dfrac{1-\varsigma}{1-\omega}xy\right),
+	\end{cases} 
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\gamma\\
+			\delta\\
+			\varepsilon\\
+			\kappa\\
+			\xi\\
+			\varsigma\\
+			\omega
+\end{bmatrix}=
+		\begin{bmatrix}
+			1.013\\
+			-0.011\\
+			0.02\\
+			0.96\\
+			0\\
+			0.01\\
+			1\\
+			0.05\\
+			0.05
+\end{bmatrix}.
+$$
+
+![The Tamari Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Tamari_Attractor.png)
