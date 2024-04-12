@@ -42,4 +42,5 @@ title('The Lorenz Attractor', 'FontSize', 16);
 
 % exportgraphics(gcf, "images_png/The Lorenz Attractor.png", 'Resolution', 1200)
 % exportgraphics(gcf, "images_pdf/The Lorenz Attractor.pdf")
+% exportgraphics(gcf, "images_eps/The Lorenz Attractor.eps")
 % save("workspace/TheLorenzAttractor.mat")
