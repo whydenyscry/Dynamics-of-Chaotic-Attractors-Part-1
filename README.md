@@ -23,5 +23,5 @@ $$
 	\end{bmatrix}.
 $$
 
-![The Lorenz Attractor](../images_pdf/The_Lorenz_Attractor.pdf)
+![The Lorenz Attractor](../images_png/The_Lorenz_Attractor.png)
 
