@@ -61,7 +61,7 @@ $$
 $$
  
 $$
-begin{bmatrix}
+\begin{bmatrix}
 			\alpha \\
 			\beta \\
 			\varsigma \\
