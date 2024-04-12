@@ -58,7 +58,6 @@ $$
 			\frac{\mathrm{d}y}{\mathrm{d}t} = \delta x + (z - \beta)y, \\
 			\frac{\mathrm{d}z}{\mathrm{d}t} = \varsigma + \alpha z - \frac{z^3}{3} - \left(x^2 + y^2\right)\left(1 + \varepsilon z\right) + \xi zx^3,
 \end{cases}
-
 $$
  
 $$
