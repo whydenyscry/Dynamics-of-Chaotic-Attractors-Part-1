@@ -11,14 +11,12 @@ This is where I'll post attractors I've plotted using [explicit Runge-Kutta meth
 \end{cases}
  $$
  
- $$
+$$
  \begin{bmatrix}
 			\sigma\\
 			\rho\\
 			\beta
-\end{bmatrix}
-=
-\begin{bmatrix}
+\end{bmatrix} = \begin{bmatrix}
 		10 \\ 28 \\ \frac{8}{3}
-\end{bmatrix}.
- $$
+	\end{bmatrix}.
+$$
