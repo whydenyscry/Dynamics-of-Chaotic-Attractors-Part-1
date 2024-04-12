@@ -49,3 +49,36 @@ $$
 $$
 
 ![The Lotka—Volterra Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Lotka_Volterra_Attractor.png)
+
+## The Aizawa Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = (z - \beta)x - \delta y, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = \delta x + (z - \beta)y, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = \varsigma + \alpha z - \frac{z^3}{3} - \left(x^2 + y^2\right)\left(1 + \varepsilon z\right) + \xi zx^3,
+\end{cases}
+
+$$
+ 
+$$
+begin{bmatrix}
+			\alpha \\
+			\beta \\
+			\varsigma \\
+			\delta \\
+			\varepsilon \\
+			\xi
+		\end{bmatrix}
+		=
+		\begin{bmatrix}
+			0.95 \\
+			0.7 \\
+			0.6 \\
+			3.5 \\
+			0.25 \\
+			0.1
+		\end{bmatrix}
+$$
+
+![The Aizawa Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Aizawa_Attractor.png)
