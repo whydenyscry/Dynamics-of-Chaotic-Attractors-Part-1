@@ -23,4 +23,4 @@ $$
 	\end{bmatrix}.
 $$
 
-![The Lorenz Attractor]("../images_eps/The Lorenz Attractor.eps")
+![The Lorenz Attractor](images_eps/The Lorenz Attractor.eps)
