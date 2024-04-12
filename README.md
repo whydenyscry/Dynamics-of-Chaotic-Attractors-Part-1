@@ -23,5 +23,5 @@ $$
 	\end{bmatrix}.
 $$
 
-![The Lorenz Attractor](../images_png/The_Lorenz_Attractor.png)
+![The Lorenz Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/tree/main/images_eps/The_Lorenz_Attractor.svg)
 
