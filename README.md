@@ -116,3 +116,19 @@ $$
 $$
 
 ![The Tamari Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Tamari_Attractor.png)
+
+## The Halvorsen Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = -\alpha x-4y-4z-y^2, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} =-\alpha y-4z-4x-z^2, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = -\alpha z-4x-4y-x^2,
+\end{cases} 
+$$
+
+$$ 
+\alpha=1.4.
+$$
+
+![The Halvorsen Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Halvorsen_Attractor.png)
