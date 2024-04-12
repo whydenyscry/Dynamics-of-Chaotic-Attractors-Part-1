@@ -22,3 +22,5 @@ $$
 		\frac{8}{3}
 	\end{bmatrix}.
 $$
+
+![The Lorenz Attractor]("images_eps/The Lorenz Attractor.eps")
