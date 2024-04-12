@@ -17,6 +17,8 @@ $$
 			\rho\\
 			\beta
 \end{bmatrix} = \begin{bmatrix}
-		10 \\ 28 \\ \frac{8}{3}
+		10 \\ 
+		28 \\ 
+		\frac{8}{3}
 	\end{bmatrix}.
 $$
