@@ -25,3 +25,27 @@ $$
 
 ![The Lorenz Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Lorenz_Attractor.png)
 
+## The Lotka—Volterra Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=x-xy+\varsigma x^2-\alpha z x^2, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=-y+xy, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=-\beta z +\alpha z x^2,
+\end{cases}
+$$
+ 
+$$
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma
+\end{bmatrix}=
+		\begin{bmatrix}
+			2.9851\\
+			3\\
+			2
+\end{bmatrix}.
+$$
+
+![The Lotka—Volterra Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Lotka_Volterra_Attractor.png)
