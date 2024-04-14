@@ -132,3 +132,19 @@ $$
 $$
 
 ![The Halvorsen Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Halvorsen_Attractor.png)
+
+## The Halvorsen Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} =-\beta x+\sin y,\\[0.2 cm]
+			\frac{\mathrm{d}y}{\mathrm{d}t} = -\beta y + \sin z, \\[0.2 cm]
+			\frac{\mathrm{d}z}{\mathrm{d}t} = -\beta z + \sin x
+\end{cases}
+$$
+
+$$ 
+\beta=0.19.
+$$
+
+![The Thomas Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Thomas_Attractor.png)
