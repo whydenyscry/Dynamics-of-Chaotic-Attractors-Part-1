@@ -133,13 +133,13 @@ $$
 
 ![The Halvorsen Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Halvorsen_Attractor.png)
 
-## The Halvorsen Attractor
+## The Thomas Attractor
  
 $$ 
 \begin{cases}
 			\frac{\mathrm{d}x}{\mathrm{d}t} =-\beta x+\sin y,\\
 			\frac{\mathrm{d}y}{\mathrm{d}t} = -\beta y + \sin z, \\
-			\frac{\mathrm{d}z}{\mathrm{d}t} = -\beta z + \sin x
+			\frac{\mathrm{d}z}{\mathrm{d}t} = -\beta z + \sin x,
 \end{cases}
 $$
 
@@ -148,3 +148,30 @@ $$
 $$
 
 ![The Thomas Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Thomas_Attractor.png)
+
+## The ACT Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(x-y\right), \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = -4\alpha y +xz+\varsigma x^3, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = -\delta\alpha z +xy+\beta z^2,
+\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\delta\\
+			\varsigma
+		\end{bmatrix}=
+\begin{bmatrix}
+			1.8\\
+			-0.07\\
+			1.5\\
+			0.02
+\end{bmatrix}.
+$$
+
+![The ACT Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_ACT_Attractor.png)
