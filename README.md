@@ -137,8 +137,8 @@ $$
  
 $$ 
 \begin{cases}
-			\frac{\mathrm{d}x}{\mathrm{d}t} =-\beta x+\sin y,\\[0.2 cm]
-			\frac{\mathrm{d}y}{\mathrm{d}t} = -\beta y + \sin z, \\[0.2 cm]
+			\frac{\mathrm{d}x}{\mathrm{d}t} =-\beta x+\sin y,\\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = -\beta y + \sin z, \\
 			\frac{\mathrm{d}z}{\mathrm{d}t} = -\beta z + \sin x
 \end{cases}
 $$
