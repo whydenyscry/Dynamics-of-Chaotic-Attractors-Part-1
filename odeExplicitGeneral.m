@@ -8,7 +8,7 @@ b_vector = reshape(b_vector, [s_stages 1]);
 incond = reshape(incond, [m 1]);
     
 
-t = (timeint(1):tau:timeint(2))';
+t = (timeint(1) : tau : timeint(2))';
 xsol = zeros(length(incond), length(t));
 xsol(:, 1) = incond(:);
 
