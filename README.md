@@ -175,3 +175,38 @@ $$
 $$
 
 ![The ACT Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_ACT_Attractor.png)
+
+## The Hindmarsh—Rose Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = -\alpha x^3 +\beta x^2+y -z+\iota, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} =-\delta x^2-y+\varsigma, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = \rho\left(\xi\left(x-\chi\right)-z\right),
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\delta\\
+			\iota\\
+			\rho\\
+			\xi\\
+			\chi
+\end{bmatrix}=
+		\begin{bmatrix}
+			1\\
+			3\\
+			1\\
+			5\\
+			3.25\\
+			0.006\\
+			4\\
+			-1.6
+		\end{bmatrix}.
+$$
+
+![The Hindmarsh—Rose Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Hindmarsh_Rose_Attractor.png)
