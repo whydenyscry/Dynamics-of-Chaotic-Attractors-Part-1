@@ -1,4 +1,5 @@
 function [t, xsol] = odeCRK4(fun, timeint, tau, incond)
+% Coefficients of the classical Runge—Kutta method of the 4th order.
 c_vector = [0 1/2 1/2 1]'; 
 
 A_matrix = [0 0 0 0; 

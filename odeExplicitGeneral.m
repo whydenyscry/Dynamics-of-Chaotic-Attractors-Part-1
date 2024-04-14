@@ -3,7 +3,9 @@ function [t, xsol] = odeExplicitGeneral(c_vector,A_matrix,b_vector,fun,timeint,t
 s_stages = length(c_vector);
 m = length(incond);
 
-incond = reshape(incond,[m 1]);
+c_vector = reshape(c_vector, [s_stages 1]);
+b_vector = reshape(b_vector, [s_stages 1]);
+incond = reshape(incond, [m 1]);
     
 
 t = (timeint(1):tau:timeint(2))';
