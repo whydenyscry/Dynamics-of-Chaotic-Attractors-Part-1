@@ -259,3 +259,34 @@ $$
 $$
 
 ![The Arneodo Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Arneodo_Attractor.png)
+
+## The 3-Cells CNN Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = -x+\alpha f(x)-\delta f(y)- \delta f(z), \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = -y-\delta f(x)+\beta f(y)-\varsigma f(z), \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = -z -\delta f(x)+\varsigma f(y) + f(z),
+		\end{cases}
+$$
+
+$$
+f\left(\omega\right)=\frac{1}{2}\left(\left|\omega+1\right|-\left|\omega-1\right|\right),
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\delta
+		\end{bmatrix}=
+		\begin{bmatrix}
+			1.24\\
+			1.1\\
+			4.4\\
+			3.21
+		\end{bmatrix}.
+$$
+
+![The 3-Cells CNN Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_3_Cells_CNN_Attractor.png)
