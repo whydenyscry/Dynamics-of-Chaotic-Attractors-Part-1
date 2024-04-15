@@ -234,3 +234,28 @@ $$
 $$
 
 ![The Rucklidge Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Rucklidge_Attractor.png)
+
+## The Arneodo Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} =y, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = z, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = -\alpha x -\beta y -z+\varsigma x^3,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma
+		\end{bmatrix}=
+		\begin{bmatrix}
+			-5.5\\
+			3.5\\
+			-1
+		\end{bmatrix}.
+$$
+
+![The Arneodo Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Arneodo_Attractor.png)
