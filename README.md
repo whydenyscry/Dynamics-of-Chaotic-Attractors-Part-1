@@ -211,3 +211,26 @@ $$
 $$
 
 ![The Hindmarsh—Rose Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Hindmarsh_Rose_Attractor.png)
+
+## The Rucklidge Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} =-\kappa x+\alpha y -yz, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = x, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = -z+y^2,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\kappa
+		\end{bmatrix}=
+		\begin{bmatrix}
+			6.7\\
+			2
+		\end{bmatrix}.
+$$
+
+![The Rucklidge Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Rucklidge_Attractor.png)
