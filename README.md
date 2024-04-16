@@ -343,3 +343,27 @@ $$
 $$
 
 ![The Rössler Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Rossler_Attractor.png)
+
+## The Finance Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = \left(\frac{1}{\beta}-\alpha\right)x+z+xy, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = -\beta y-x^2, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = -x -\varsigma z
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma
+		\end{bmatrix}=\begin{bmatrix}
+			0.001\\
+			0.2\\
+			1.1
+		\end{bmatrix}
+$$
+
+![The Finance Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Finance_Attractor.png)
