@@ -319,3 +319,27 @@ $$
 $$
 
 ![The Dadras Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Dadras_Attractor.png)
+
+## The Rössler Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} =-y-z,\\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = x+\alpha y, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = \beta+z\left(x-\varsigma\right)
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma
+		\end{bmatrix}=\begin{bmatrix}
+		0.1\\
+		0.1\\
+		14
+		\end{bmatrix}
+$$
+
+![The Rössler Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Rossler_Attractor.png)
