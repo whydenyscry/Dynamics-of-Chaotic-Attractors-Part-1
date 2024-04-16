@@ -290,3 +290,32 @@ $$
 $$
 
 ![The 3-Cells CNN Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_3_Cells_CNN_Attractor.png)
+
+## The Dadras Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} =y-\rho x+\sigma yz,\\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = \xi y-xz+z, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = \varsigma xy-\varepsilon z
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\rho\\
+			\sigma\\
+			\xi\\
+			\varsigma\\
+			\varepsilon
+\end{bmatrix}=
+	\begin{bmatrix}
+			3\\
+			2.7\\
+			1.7\\
+			2\\
+			9
+	\end{bmatrix}
+$$
+
+![The Dadras Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Dadras_Attractor.png)
