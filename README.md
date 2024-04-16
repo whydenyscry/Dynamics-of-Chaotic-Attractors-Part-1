@@ -297,7 +297,7 @@ $$
 \begin{cases}
 			\frac{\mathrm{d}x}{\mathrm{d}t} =y-\rho x+\sigma yz,\\
 			\frac{\mathrm{d}y}{\mathrm{d}t} = \xi y-xz+z, \\
-			\frac{\mathrm{d}z}{\mathrm{d}t} = \varsigma xy-\varepsilon z
+			\frac{\mathrm{d}z}{\mathrm{d}t} = \varsigma xy-\varepsilon z,
 		\end{cases}
 $$
 
@@ -315,7 +315,7 @@ $$
 			1.7\\
 			2\\
 			9
-	\end{bmatrix}
+	\end{bmatrix}.
 $$
 
 ![The Dadras Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Dadras_Attractor.png)
@@ -326,7 +326,7 @@ $$
 \begin{cases}
 			\frac{\mathrm{d}x}{\mathrm{d}t} =-y-z,\\
 			\frac{\mathrm{d}y}{\mathrm{d}t} = x+\alpha y, \\
-			\frac{\mathrm{d}z}{\mathrm{d}t} = \beta+z\left(x-\varsigma\right)
+			\frac{\mathrm{d}z}{\mathrm{d}t} = \beta+z\left(x-\varsigma\right),
 		\end{cases}
 $$
 
@@ -339,7 +339,7 @@ $$
 		0.1\\
 		0.1\\
 		14
-		\end{bmatrix}
+		\end{bmatrix}.
 $$
 
 ![The Rössler Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Rossler_Attractor.png)
@@ -350,7 +350,7 @@ $$
 \begin{cases}
 			\frac{\mathrm{d}x}{\mathrm{d}t} = \left(\frac{1}{\beta}-\alpha\right)x+z+xy, \\
 			\frac{\mathrm{d}y}{\mathrm{d}t} = -\beta y-x^2, \\
-			\frac{\mathrm{d}z}{\mathrm{d}t} = -x -\varsigma z
+			\frac{\mathrm{d}z}{\mathrm{d}t} = -x -\varsigma z,
 		\end{cases}
 $$
 
@@ -363,7 +363,31 @@ $$
 			0.001\\
 			0.2\\
 			1.1
-		\end{bmatrix}
+		\end{bmatrix}.
 $$
 
 ![The Finance Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Finance_Attractor.png)
+
+## The Chen—Celikovsky Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=\alpha\left(y-x\right), \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=-xz+\varsigma y, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}= xy-\beta z,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma
+		\end{bmatrix}=\begin{bmatrix}
+			36\\
+			3\\
+			20
+		\end{bmatrix}.
+$$
+
+![The Chen—Celikovsky Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Chen_Celikovsky_Attractor.png)
