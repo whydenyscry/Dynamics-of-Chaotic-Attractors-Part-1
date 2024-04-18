@@ -2,8 +2,6 @@
 This is where I'll post attractors I've plotted using [explicit Runge-Kutta methods](https://github.com/whydenyscry/General-algorithm-of-the-explicit-Runge-Kutta-method). 
 The vast majority of attractors I've learned about on [Jürgen Mayer's personal website](http://www.3d-meier.de/).
 
-P.S. I forgot to vectorize the pdf and eps images, hopefully I'll do that at some point.
- 
 ## The Lorenz Attractor
  
  $$ 
