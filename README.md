@@ -454,7 +454,7 @@ $$
 \begin{cases}
 			\frac{\mathrm{d}x}{\mathrm{d}t} =y-x, \\
 			\frac{\mathrm{d}y}{\mathrm{d}t} = -z\tanh x, \\
-			\frac{\mathrm{d}z}{\mathrm{d}t} = -\alpha+xy+|y|
+			\frac{\mathrm{d}z}{\mathrm{d}t} = -\alpha+xy+|y|,
 		\end{cases}
 $$
 
@@ -513,7 +513,7 @@ $$
 \begin{cases}
 			\frac{\mathrm{d}x}{\mathrm{d}t}=y, \\
 			\frac{\mathrm{d}y}{\mathrm{d}t}=\left(1-z\right)x-\alpha y, \\
-			\frac{\mathrm{d}z}{\mathrm{d}t}=x^2-\beta z
+			\frac{\mathrm{d}z}{\mathrm{d}t}=x^2-\beta z,
 		\end{cases}
 $$
 
@@ -529,3 +529,19 @@ $$
 $$
 
 ![The Shimizu—Morioka Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Shimizu_Morioka_Attractor.png)
+
+## The Nose—Hoover Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=y, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=-x+yz, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=\alpha-y^2,
+		\end{cases}
+$$
+
+$$ 
+\alpha=1.5.
+$$
+
+![The Nose—Hoover Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Nose_Hoover_Attractor.png)
