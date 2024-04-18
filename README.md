@@ -418,3 +418,30 @@ $$
 $$
 
 ![The Hadley Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Hadley_Attractor.png)
+
+## The Wang Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(x-y\right)-yz, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = -\beta y+xz, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} =-\varsigma z+\delta x+xy,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\delta
+		\end{bmatrix}=
+		\begin{bmatrix}
+			0.977\\
+			10\\
+			4\\
+			0.1
+		\end{bmatrix}.
+$$
+
+![The Wang Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Wang_Attractor.png)
