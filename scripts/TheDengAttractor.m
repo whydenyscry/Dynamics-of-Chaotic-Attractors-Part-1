@@ -50,6 +50,6 @@ zlabel('$z$', 'FontSize', 14);
 title('The Deng Attractor', 'FontSize', 16);
 
 % exportgraphics(gcf, "images_png/The_Deng_Attractor.png", 'Resolution', 1200)
-% exportgraphics(gcf, "images_pdf/The_Deng_Attractor.pdf")
-% exportgraphics(gcf, "images_eps/The_Deng_Attractor.eps")
+% exportgraphics(gcf, "images_pdf/The_Deng_Attractor.pdf", "ContentType", "vector")
+% exportgraphics(gcf, "images_eps/The_Deng_Attractor.eps", "ContentType", "vector")
 % save("workspace/TheDengAttractor.mat")

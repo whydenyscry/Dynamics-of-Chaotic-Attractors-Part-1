@@ -41,6 +41,6 @@ zlabel('$z$', 'FontSize', 14);
 title('The Chen---Celikovsky Attractor', 'FontSize', 16);
 
 % exportgraphics(gcf, "images_png/The_Chen_Celikovsky_Attractor.png", 'Resolution', 1200)
-% exportgraphics(gcf, "images_pdf/The_Chen_Celikovsky_Attractor.pdf")
-% exportgraphics(gcf, "images_eps/The_Chen_Celikovsky_Attractor.eps")
+% exportgraphics(gcf, "images_pdf/The_Chen_Celikovsky_Attractor.pdf", "ContentType", "vector")
+% exportgraphics(gcf, "images_eps/The_Chen_Celikovsky_Attractor.eps", "ContentType", "vector")
 % save("workspace/TheChenCelikovskyAttractor.mat")

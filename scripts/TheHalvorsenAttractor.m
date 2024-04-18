@@ -39,6 +39,6 @@ zlabel('$z$', 'FontSize', 14);
 title('The Halvorsen Attractor', 'FontSize', 16);
 
 % exportgraphics(gcf, "images_png/The_Halvorsen_Attractor.png", 'Resolution', 1200)
-% exportgraphics(gcf, "images_pdf/The_Halvorsen_Attractor.pdf")
-% exportgraphics(gcf, "images_eps/The_Halvorsen_Attractor.eps")
+% exportgraphics(gcf, "images_pdf/The_Halvorsen_Attractor.pdf", "ContentType", "vector")
+% exportgraphics(gcf, "images_eps/The_Halvorsen_Attractor.eps", "ContentType", "vector")
 % save("workspace/TheHalvorsenAttractor.mat")

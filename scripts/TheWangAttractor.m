@@ -42,6 +42,6 @@ zlabel('$z$', 'FontSize', 14);
 title('The Wang Attractor', 'FontSize', 16);
 
 % exportgraphics(gcf, "images_png/The_Wang_Attractor.png", 'Resolution', 1200)
-% exportgraphics(gcf, "images_pdf/The_Wang_Attractor.pdf")
-% exportgraphics(gcf, "images_eps/The_Wang_Attractor.eps")
+% exportgraphics(gcf, "images_pdf/The_Wang_Attractor.pdf", "ContentType", "vector")
+% exportgraphics(gcf, "images_eps/The_Wang_Attractor.eps", "ContentType", "vector")
 % save("workspace/TheWangAttractor.mat")

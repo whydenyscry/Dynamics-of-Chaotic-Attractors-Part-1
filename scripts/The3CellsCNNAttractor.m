@@ -43,6 +43,6 @@ zlabel('$z$', 'FontSize', 14);
 title('The 3-Cells CNN Attractor', 'FontSize', 16);
 
 % exportgraphics(gcf, "images_png/The_3_Cells_CNN_Attractor.png", 'Resolution', 1200)
-% exportgraphics(gcf, "images_pdf/The_3_Cells_CNN_Attractor.pdf")
-% exportgraphics(gcf, "images_eps/The_3_Cells_CNN_Attractor.eps")
+% exportgraphics(gcf, "images_pdf/The_3_Cells_CNN_Attractor.pdf", "ContentType", "vector")
+% exportgraphics(gcf, "images_eps/The_3_Cells_CNN_Attractor.eps", "ContentType", "vector")
 % save("workspace/The3CellsCNNAttractor.mat")

@@ -41,6 +41,6 @@ zlabel('$z$', 'FontSize', 14);
 title('The Arneodo Attractor', 'FontSize', 16);
 
 % exportgraphics(gcf, "images_png/The_Arneodo_Attractor.png", 'Resolution', 1200)
-% exportgraphics(gcf, "images_pdf/The_Arneodo_Attractor.pdf")
-% exportgraphics(gcf, "images_eps/The_Arneodo_Attractor.eps")
+% exportgraphics(gcf, "images_pdf/The_Arneodo_Attractor.pdf", "ContentType", "vector")
+% exportgraphics(gcf, "images_eps/The_Arneodo_Attractor.eps", "ContentType", "vector")
 % save("workspace/TheArneodoAttractor.mat")

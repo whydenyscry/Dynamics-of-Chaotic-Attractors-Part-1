@@ -39,6 +39,6 @@ zlabel('$z$', 'FontSize', 14);
 title('The Wimol---Banlue Attractor', 'FontSize', 16);
 
 % exportgraphics(gcf, "images_png/The_Wimol_Banlue_Attractor.png", 'Resolution', 1200)
-% exportgraphics(gcf, "images_pdf/The_Wimol_Banlue_Attractor.pdf")
-% exportgraphics(gcf, "images_eps/The_Wimol_Banlue_Attractor.eps")
+% exportgraphics(gcf, "images_pdf/The_Wimol_Banlue_Attractor.pdf", "ContentType", "vector")
+% exportgraphics(gcf, "images_eps/The_Wimol_Banlue_Attractor.eps", "ContentType", "vector")
 % save("workspace/TheWimolBanlueAttractor.mat")

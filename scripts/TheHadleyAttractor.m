@@ -42,6 +42,6 @@ zlabel('$z$', 'FontSize', 14);
 title('The Hadley Attractor', 'FontSize', 16);
 
 % exportgraphics(gcf, "images_png/The_Hadley_Attractor.png", 'Resolution', 1200)
-% exportgraphics(gcf, "images_pdf/The_Hadley_Attractor.pdf")
-% exportgraphics(gcf, "images_eps/The_Hadley_Attractor.eps")
+% exportgraphics(gcf, "images_pdf/The_Hadley_Attractor.pdf", "ContentType", "vector")
+% exportgraphics(gcf, "images_eps/The_Hadley_Attractor.eps", "ContentType", "vector")
 % save("workspace/TheHadleyAttractor.mat")

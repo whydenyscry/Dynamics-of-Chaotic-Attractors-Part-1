@@ -26,7 +26,7 @@ start_ODE = datetime("now");
 end_ODE = datetime("now");
 
 time_RKmethod = end_ODE - start_ODE;
-time_RKmethod.Format = "hh:mm:ss.SSS"
+time_RKmethod.Format = "hh:mm:ss.SSS";
 
 set(groot, "defaultAxesTickLabelInterpreter", "latex");
 set(groot, "defaultTextInterpreter", "latex");
@@ -47,6 +47,6 @@ zlabel('$z$', 'FontSize', 14);
 title('The Hindmarsh---Rose Attractor', 'FontSize', 16);
 
 % exportgraphics(gcf, "images_png/The_Hindmarsh_Rose_Attractor.png", 'Resolution', 1200)
-% exportgraphics(gcf, "images_pdf/The_Hindmarsh_Rose_Attractor.pdf")
-% exportgraphics(gcf, "images_eps/The_Hindmarsh_Rose_Attractor.eps")
+% exportgraphics(gcf, "images_pdf/The_Hindmarsh_Rose_Attractor.pdf", "ContentType", "vector")
+% exportgraphics(gcf, "images_eps/The_Hindmarsh_Rose_Attractor.eps", "ContentType", "vector")
 % save("workspace/TheHindmarshRoseAttractor.mat")

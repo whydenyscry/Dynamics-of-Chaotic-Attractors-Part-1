@@ -41,6 +41,6 @@ zlabel('$z$', 'FontSize', 14);
 title('The Lotka---Volterra Attractor', 'FontSize', 16);
 
 % exportgraphics(gcf, "images_png/The_Lotka_Volterra_Attractor.png", 'Resolution', 1200)
-% exportgraphics(gcf, "images_pdf/The_Lotka_Volterra_Attractor.pdf")
-% exportgraphics(gcf, "images_eps/The_Lotka_Volterra_Attractor.eps")
+% exportgraphics(gcf, "images_pdf/The_Lotka_Volterra_Attractor.pdf", "ContentType", "vector")
+% exportgraphics(gcf, "images_eps/The_Lotka_Volterra_Attractor.eps", "ContentType", "vector")
 % save("workspace/TheLotkaVolterraAttractor.mat")
