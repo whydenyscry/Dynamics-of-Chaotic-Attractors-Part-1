@@ -573,3 +573,30 @@ $$
 $$
 
 ![The Wang—Sun Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Wang_Sun_Attractor.png)
+
+## The Xing—Yun Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=\alpha\left(y-x\right)+yz^2, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=\beta\left(x+y\right)-xz^2, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=-\varsigma z+\varepsilon y +xyz,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\varepsilon
+		\end{bmatrix}=
+		\begin{bmatrix}
+			50\\
+			10\\
+			13\\
+			6
+		\end{bmatrix}.
+$$
+
+![The Xing—Yun Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Xing_Yun_Attractor.png)
