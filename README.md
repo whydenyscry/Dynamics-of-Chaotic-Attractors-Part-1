@@ -506,3 +506,26 @@ $$
 $$
 
 ![The Deng Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Deng_Attractor.png)
+
+## The Shimizu—Morioka Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=y, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=\left(1-z\right)x-\alpha y, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=x^2-\beta z
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta
+		\end{bmatrix}=
+		\begin{bmatrix}
+			0.75\\
+			0.45
+		\end{bmatrix}.
+$$
+
+![The Shimizu—Morioka Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Shimizu_Morioka_Attractor.png)
