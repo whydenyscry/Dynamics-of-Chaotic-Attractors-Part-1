@@ -543,3 +543,33 @@ $$
 $$
 
 ![The Nose—Hoover Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Nose_Hoover_Attractor.png)
+
+## The Wang—Sun Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} =\alpha x +\varsigma yz,\\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = \beta x +\delta y -xz, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = \varepsilon z +\xi xy,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\delta\\
+			\varepsilon\\
+			\xi\\
+			\varsigma
+		\end{bmatrix}=\begin{bmatrix}
+			0.2\\
+			-0.01\\
+			-0.4\\
+			-1\\
+			-1\\
+			1
+		\end{bmatrix}.
+$$
+
+![The Wang—Sun Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Wang_Sun_Attractor.png)
