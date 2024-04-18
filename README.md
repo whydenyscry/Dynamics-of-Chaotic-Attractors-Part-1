@@ -461,3 +461,46 @@ $$
 $$
 
 ![The Wimol—Banlue Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Wimol_Banlue_Attractor.png)
+
+## The Deng Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = z (\lambda x - \mu y )+ (2-z) \left[ \alpha x  \left( 1-\frac{x^2+y^2}{\rho^2} \right) -\beta y \right], \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = z ( \mu x +\lambda y) + (2-z) \left[ \alpha y \left(  1- \frac{x^2+y^2}{\rho^2} \right)+\beta x \right], \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}= \frac{1}{\varepsilon} \left[z ( (2-z) \left( \varphi (z-2)^2+\psi \right) - \delta x)\left(z+\xi \left( x^2+y^2 \right)-\eta \right)-\varepsilon \varsigma(z-1) \right],
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\delta\\
+			\xi \\
+			\eta\\
+			\rho \\
+			\varepsilon\\
+			\lambda\\
+			\mu\\
+			\varphi\\
+			\psi
+		\end{bmatrix}=
+		\begin{bmatrix}
+			2.8\\
+			5\\
+			1\\
+			0.1\\
+			0.05\\
+			3.312\\
+			10\\
+			0.1\\
+			-2\\
+			1.155\\
+			3\\
+			0.8
+		\end{bmatrix}.
+$$
+
+![The Deng Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Deng_Attractor.png)
