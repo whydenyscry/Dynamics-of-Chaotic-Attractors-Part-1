@@ -391,3 +391,30 @@ $$
 $$
 
 ![The Chen—Celikovsky Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Chen_Celikovsky_Attractor.png)
+
+## The Hadley Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = -y^2-z^2-\alpha x+\alpha\varsigma, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} =xy -\beta xz-y+\delta, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} =\beta xy+xz-z,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\delta
+		\end{bmatrix}=
+		\begin{bmatrix}
+			0.2\\
+			4\\
+			8\\
+			1
+		\end{bmatrix}.
+$$
+
+![The Hadley Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Hadley_Attractor.png)
