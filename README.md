@@ -445,3 +445,19 @@ $$
 $$
 
 ![The Wang Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Wang_Attractor.png)
+
+## The Wimol—Banlue Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} =y-x, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = -z\tanh x, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = -\alpha+xy+|y|
+		\end{cases}
+$$
+
+$$ 
+\alpha = 2.
+$$
+
+![The Wimol—Banlue Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Wimol_Banlue_Attractor.png)
