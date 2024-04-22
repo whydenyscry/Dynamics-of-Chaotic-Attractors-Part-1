@@ -729,3 +729,26 @@ $$
 $$
 
 ![The Yu—Wang Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Yu_Wang_Attractor.png)
+
+## The Sakarya Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = -x+y+yz, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} =-x-y+\alpha xz, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = z-\beta xy,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta
+		\end{bmatrix}=
+		\begin{bmatrix}
+			0.4\\
+			0.3
+		\end{bmatrix}.
+$$
+
+![The Sakarya Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sakarya_Attractor.png)
