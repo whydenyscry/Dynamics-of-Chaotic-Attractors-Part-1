@@ -600,3 +600,28 @@ $$
 $$
 
 ![The Xing—Yun Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Xing_Yun_Attractor.png)
+
+## The Lü—Chen Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=- \frac{\alpha\beta}{\alpha+\beta}x -yz+\varsigma, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=\alpha y +xz, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=\beta z+xy,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma
+		\end{bmatrix}=
+		\begin{bmatrix}
+			-10\\
+			-4\\
+			18.1
+		\end{bmatrix}.
+$$
+
+![The Lü—Chen Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Lu_Chen_Attractor.png)
