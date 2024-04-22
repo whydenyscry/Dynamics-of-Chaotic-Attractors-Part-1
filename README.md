@@ -648,3 +648,32 @@ $$
 $$
 
 ![The Burke—Shaw Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Burke_Shaw_Attractor.png)
+
+## The Zhou—Chen Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha x+\beta y +yz, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} =\varsigma y-xz+\delta yz, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} =\varepsilon z-xy,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\delta\\
+			\varepsilon
+	end{bmatrix}=
+		\begin{bmatrix}
+			2.97\\
+			0.15\\
+			-3\\
+			1\\
+			-8.78
+		\end{bmatrix}.
+$$
+
+![The Zhou—Chen Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Zhou_Chen_Attractor.png)
