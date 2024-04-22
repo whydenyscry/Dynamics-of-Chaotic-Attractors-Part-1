@@ -685,7 +685,7 @@ $$
 			\frac{\mathrm{d}x}{\mathrm{d}t} = y, \\
 			\frac{\mathrm{d}y}{\mathrm{d}t} = z, \\
 			\frac{\mathrm{d}z}{\mathrm{d}t} = -\varsigma x-\beta y-\alpha z+x^2,
-		\end{cases}}
+		\end{cases}
 $$
 
 $$ 
@@ -702,3 +702,30 @@ $$
 $$
 
 ![The Genesio—Tesi Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Genesio_Tesi_Attractor.png)
+
+## The Yu—Wang Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x\right), \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} =\beta x-\varsigma xz, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = \exp{(xy)}-\delta z,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\delta
+		\end{bmatrix}=
+		\begin{bmatrix}
+			10\\
+			40\\
+			2\\
+			2.5
+		\end{bmatrix}.
+$$
+
+![The Yu—Wang Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Yu_Wang_Attractor.png)
