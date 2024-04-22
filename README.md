@@ -625,3 +625,26 @@ $$
 $$
 
 ![The Lü—Chen Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Lu_Chen_Attractor.png)
+
+## The Burke—Shaw Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=-\alpha\left(x+y\right), \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=-y-\alpha xz, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=\alpha xy +\beta,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta
+		\end{bmatrix}=
+		\begin{bmatrix}
+			10\\
+			4.272
+		\end{bmatrix}.
+$$
+
+![The Burke—Shaw Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Burke_Shaw_Attractor.png)
