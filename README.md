@@ -666,7 +666,7 @@ $$
 			\varsigma\\
 			\delta\\
 			\varepsilon
-	end{bmatrix}=
+	\end{bmatrix}=
 		\begin{bmatrix}
 			2.97\\
 			0.15\\
@@ -677,3 +677,28 @@ $$
 $$
 
 ![The Zhou—Chen Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Zhou_Chen_Attractor.png)
+
+## The Genesio—Tesi Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = y, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = z, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = -\varsigma x-\beta y-\alpha z+x^2,
+		\end{cases}}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma
+		\end{bmatrix}=
+		\begin{bmatrix}
+			0.44\\
+			1.1\\
+			1
+		\end{bmatrix}.
+$$
+
+![The Genesio—Tesi Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Genesio_Tesi_Attractor.png)
