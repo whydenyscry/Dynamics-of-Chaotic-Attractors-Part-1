@@ -53,6 +53,33 @@ $$
 
 ![The Lorenz Mod 1 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Lorenz_Mod_1_Attractor.png)
 
+## The Lorenz Mod 2 Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=-\alpha x+y^2-z^2+\alpha\varsigma, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=x\left(y-\beta z\right)+\delta, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=-z+x\left(\beta y+z\right),
+		\end{cases}
+$$
+ 
+$$
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\delta
+		\end{bmatrix}=
+		\begin{bmatrix}
+			0.9\\
+			5\\
+			9.9\\
+			1
+		\end{bmatrix}.
+$$
+
+![The Lorenz Mod 2 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Lorenz_Mod_2_Attractor.png)
+
 ## The Lotka—Volterra Attractor
  
 $$ 
