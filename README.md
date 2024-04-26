@@ -806,3 +806,30 @@ $$
 $$
 
 ![The Sakarya Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sakarya_Attractor.png)
+
+## The Chua Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=\alpha\left(y-x-\left(\varsigma x + \frac{1}{2}\left(\delta-\varsigma\right)\left(\left|x+1\right|-\left|x-1\right|\right)\right)\right), \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=x-y+z, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=-\beta y,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\delta
+		\end{bmatrix}=
+		\begin{bmatrix}
+			\frac{78}{5}\\
+			\frac{1279}{50}\\
+			-\frac{5}{7}\\
+			-\frac{8}{7}
+		\end{bmatrix}.
+$$
+
+![The Chua Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Chua_Attractor.png)
