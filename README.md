@@ -927,3 +927,30 @@ $$
 
 ![The Moore—Spiegel Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Moore_Spiegel_Attractor.png)
 
+## The Coullet Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=y, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=z, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=\alpha x + \beta y + \varsigma z + \delta x^3,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\delta
+		\end{bmatrix}=
+		\begin{bmatrix}
+			0.8\\
+			-1.1\\
+			-0.45\\
+			-1
+		\end{bmatrix}.
+$$
+
+![The Coullet Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Coullet_Attractor.png)
+
