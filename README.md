@@ -833,3 +833,26 @@ $$
 $$
 
 ![The Chua Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Chua_Attractor.png)
+
+## The Moore—Spiegel Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=y, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=z, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=-z-\left(\beta-\alpha+\alpha x^2\right)y-\beta x,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta
+		\end{bmatrix}=
+		\begin{bmatrix}
+			100\\
+			26
+		\end{bmatrix}.
+$$
+
+![The Moore—Spiegel Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Moore_Spiegel_Attractor.png)
