@@ -834,6 +834,35 @@ $$
 
 ![The Chua Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Chua_Attractor.png)
 
+## The Modified Chua Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} =\alpha\left(y+\delta\sin{\left(\frac{\pi x}{2\varsigma}+\varepsilon\right)}\right), \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = x-y+z, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = -\beta y,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\delta\\
+			\varepsilon
+		\end{bmatrix}=
+		\begin{bmatrix}
+			10.82\\
+			14.286\\
+			1.3\\
+			0.11\\
+			0
+		\end{bmatrix}.
+$$
+
+![The Modified Chua Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Modified_Chua_Attractor.png)
+
 ## The Muthuswamy—Chua Attractor
  
 $$ 
