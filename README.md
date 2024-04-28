@@ -834,6 +834,31 @@ $$
 
 ![The Chua Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Chua_Attractor.png)
 
+## The Chua Cubic Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x^3-\varsigma x\right), \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = x-y+z, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = -\beta y,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma
+		\end{bmatrix}=
+		\begin{bmatrix}
+			10\\
+			16\\
+			-0.143
+		\end{bmatrix}.
+$$
+
+![The Chua Cubic Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Chua_Cubic_Attractor.png)
+
 ## The Modified Chua Attractor
  
 $$ 
