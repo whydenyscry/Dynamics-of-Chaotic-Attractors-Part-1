@@ -1101,3 +1101,20 @@ $$
 $$
 
 ![The Sprott—Linz J Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_J_Attractor.png)
+
+## The Sprott—Linz K Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=xy-z, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=x-y, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=x+\alpha z,
+		\end{cases}
+$$
+
+$$ 
+\alpha=\frac{3}{10}.
+$$
+
+![The Sprott—Linz K Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_K_Attractor.png)
+
