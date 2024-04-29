@@ -966,3 +966,15 @@ $$
 
 ![The Sprott—Linz A Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_A_Attractor.png)
 
+## The Sprott—Linz B Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=yz, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=x-y, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=1-xy
+		\end{cases}
+$$
+
+![The Sprott—Linz B Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_B_Attractor.png)
+
