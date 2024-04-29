@@ -1251,3 +1251,17 @@ $$
 
 ![The Sprott—Linz R Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_R_Attractor.png)
 
+## The Sprott—Linz S Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=-x+\alpha y, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=x +z^2, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=1+x,
+		\end{cases}
+$$
+
+$$ 
+\alpha=4.
+$$
+
