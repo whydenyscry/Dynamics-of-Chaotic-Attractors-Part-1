@@ -16,7 +16,7 @@ fun = @(t, x) [a * (x(2) - x(1)) + d * x(1) * x(3);
 incond = [0 1 0];
 timeint = [0 300];
 
-tau = 0.001;
+tau = 0.0001;
 
 start_ODE = datetime("now");
 [t, xsol] = odeCRK4(fun, timeint, tau, incond);
