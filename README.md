@@ -1118,3 +1118,26 @@ $$
 
 ![The Sprott—Linz K Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_K_Attractor.png)
 
+## The Sprott—Linz L Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=y+\alpha z, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=\beta x^2 - y, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=1-x,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta
+		\end{bmatrix}=
+		\begin{bmatrix}
+			3.9 \\
+			0.9
+		\end{bmatrix}.
+$$
+
+![The Sprott—Linz L Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_L_Attractor.png)
+
