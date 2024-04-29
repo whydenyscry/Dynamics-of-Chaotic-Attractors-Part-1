@@ -1273,7 +1273,7 @@ $$
 \begin{cases}
 			\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x\right)+\varsigma xz, \\
 			\frac{\mathrm{d}y}{\mathrm{d}t} = \varepsilon y-xz, \\
-			\frac{\mathrm{d}z}{\mathrm{d}t} = \beta z+xy-\delta x^2
+			\frac{\mathrm{d}z}{\mathrm{d}t} = \beta z+xy-\delta x^2,
 		\end{cases}
 $$
 
@@ -1291,7 +1291,38 @@ $$
 			0.5\\
 			0.65\\
 			20
-		\end{bmatrix}
+		\end{bmatrix}.
 $$
 
 ![The TSUCS1 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_TSUCS1_Attractor.png)
+
+## The TSUCS2 Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x\right)+\delta xz, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = \varsigma x-xz+\xi y, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = \beta z+xy-\varepsilon x^2,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\delta\\
+			\varepsilon\\
+			\xi
+		\end{bmatrix} = 
+		\begin{bmatrix}
+			40\\
+			1.833\\
+			55\\
+			0.16\\
+			20\\
+			0.65
+		\end{bmatrix}.
+$$
+
+![The TSUCS2 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_TSUCS2_Attractor.png)
