@@ -990,3 +990,18 @@ $$
 
 ![The Sprott—Linz C Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_C_Attractor.png)
 
+## The Sprott—Linz D Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=-y, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=x+z, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=xz + \alpha y^2,
+		\end{cases}
+$$
+
+$$ 
+\alpha=3.
+$$
+
+![The Sprott—Linz D Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_D_Attractor.png)
