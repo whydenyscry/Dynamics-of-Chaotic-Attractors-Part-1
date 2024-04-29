@@ -1173,3 +1173,19 @@ $$
 
 ![The Sprott—Linz N Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_N_Attractor.png)
 
+## The Sprott—Linz O Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=y, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=x-z, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=x+xz+\alpha y,
+		\end{cases}
+$$
+
+$$ 
+\alpha=\frac{27}{10}.
+$$
+
+![The Sprott—Linz O Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_O_Attractor.png)
+
