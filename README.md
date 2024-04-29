@@ -1069,3 +1069,19 @@ $$
 $$
 
 ![The Sprott—Linz H Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_H_Attractor.png)
+
+## The Sprott—Linz I Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=\alpha y, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=x+z, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=x+y^2-z,
+		\end{cases}
+$$
+
+$$ 
+\alpha=-\frac{1}{5}.
+$$
+
+![The Sprott—Linz I Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_I_Attractor.png)
