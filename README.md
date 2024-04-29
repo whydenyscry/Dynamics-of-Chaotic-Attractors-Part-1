@@ -1265,3 +1265,33 @@ $$
 \alpha=4.
 $$
 
+![The Sprott—Linz S Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_S_Attractor.png)
+
+## The TSUCS1 Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x\right)+\varsigma xz, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = \varepsilon y-xz, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = \beta z+xy-\delta x^2
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\delta\\
+			\varepsilon
+		\end{bmatrix} = 
+		\begin{bmatrix}
+			40\\
+			0.833\\
+			0.5\\
+			0.65\\
+			20
+		\end{bmatrix}
+$$
+
+![The TSUCS1 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_TSUCS1_Attractor.png)
