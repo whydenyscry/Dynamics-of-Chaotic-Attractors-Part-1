@@ -1326,3 +1326,26 @@ $$
 $$
 
 ![The TSUCS2 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_TSUCS2_Attractor.png)
+
+## The Rikitake Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=-\beta x + zy, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=-\beta y + \left(z-\alpha\right)x, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=1-xy,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta
+		\end{bmatrix}=
+		\begin{bmatrix}
+			5 \\
+			2
+		\end{bmatrix}.
+$$
+
+![The Rikitake Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Rikitake_Attractor.png)
