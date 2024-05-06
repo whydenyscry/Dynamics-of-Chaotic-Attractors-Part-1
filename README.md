@@ -1349,3 +1349,26 @@ $$
 $$
 
 ![The Rikitake Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Rikitake_Attractor.png)
+
+## The Newton---Leipnik Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=-\alpha x+y+10yz, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=-x-0.4y+5xz, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=\beta z-5xy,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta
+		\end{bmatrix}=
+		\begin{bmatrix}
+			0.4 \\
+			0.175
+		\end{bmatrix}.
+$$
+
+![The Newton---Leipnik Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Newton_Leipnik_Attractor.png)
