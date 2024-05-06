@@ -1350,7 +1350,7 @@ $$
 
 ![The Rikitake Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Rikitake_Attractor.png)
 
-## The Newton---Leipnik Attractor
+## The Newton—Leipnik Attractor
  
 $$ 
 \begin{cases}
@@ -1371,4 +1371,33 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Newton---Leipnik Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Newton_Leipnik_Attractor.png)
+![The Newton—Leipnik Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Newton_Leipnik_Attractor.png)
+
+## The Four—Wing 1 Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha x -\beta yz, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = -\varsigma y +xz, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t} = \varepsilon x -\delta z +xy,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\delta\\
+			\varepsilon
+		\end{bmatrix}=
+		\begin{bmatrix}
+			4\\
+			6\\
+			10\\
+			5\\
+			1
+		\end{bmatrix}.
+$$
+
+![The Four—Wing 1 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Four_Wing_1_Attractor.png)
