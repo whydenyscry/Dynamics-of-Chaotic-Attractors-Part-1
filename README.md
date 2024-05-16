@@ -1401,3 +1401,34 @@ $$
 $$
 
 ![The Four—Wing 1 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Four_Wing_1_Attractor.png)
+
+## The Four—Wing 2 Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha x+\beta y+\varsigma yz \\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = \delta y - xz \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}= \varepsilon z +\xi x y,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\delta\\
+			\varepsilon\\
+			\xi
+		\end{bmatrix}=
+		\begin{bmatrix}
+			-14\\
+			5\\
+			1\\
+			16\\
+			-43\\
+			1
+		\end{bmatrix}.
+$$
+
+![The Four—Wing 2 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Four_Wing_2_Attractor.png)
