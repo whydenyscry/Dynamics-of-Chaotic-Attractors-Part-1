@@ -1432,3 +1432,19 @@ $$
 $$
 
 ![The Four—Wing 2 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Four_Wing_2_Attractor.png)
+
+## The Four—Wing 3 Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=x+y+yz, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=yz-xz, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=1-\alpha xy -z
+		\end{cases}
+$$
+
+$$ 
+\alpha = 1.
+$$
+
+![The Four—Wing 3 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Four_Wing_3_Attractor.png)
