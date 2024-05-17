@@ -2,6 +2,10 @@
 This is where I'll post attractors I've plotted using [explicit Runge-Kutta methods](https://github.com/whydenyscry/General-algorithm-of-the-explicit-Runge-Kutta-method). 
 The vast majority of attractors I've learned about on [Jürgen Mayer's personal website](http://www.3d-meier.de/).
 
+The plots are also available on Pinterest:
+
+<a href="https://www.pinterest.com/whydenyscry/when-math-and-art-came-face-to-face/"><img src="https://brandslogos.com/wp-content/uploads/images/large/pinterest-logo-black-and-white-4.png" style="width: 50px; height: 50px;"></a>
+
 ## The Lorenz Attractor
  
  $$ 
