@@ -1503,3 +1503,18 @@ $$
 $$
 
 ![The Elhadj—Sprott Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Elhadj_Sprott_Attractor.png)
+
+## The Sprott Strange Multifractal Attractor
+### Reference
+Sprott, J. (2020). Do We Need More Chaos Examples?. Chaos Theory and Applications, 2(2), 49-51. https://dergipark.org.tr/en/pub/chaos/issue/54264/735400
+
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=y, \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=-x-\text{sgn}(z) y, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=y^2-\exp\left(-x^2\right)
+		\end{cases}
+$$
+
+![The Sprott Strange Multifractal Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Strange_Multifractal_Attractor.png)
+
