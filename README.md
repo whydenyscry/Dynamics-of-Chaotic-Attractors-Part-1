@@ -1453,3 +1453,28 @@ $$
 $$
 
 ![The Four—Wing 3 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Four_Wing_3_Attractor.png)
+
+## The Zhou Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=\alpha\left(y-x\right), \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=\beta x - xz, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=xy+\varsigma z,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma
+		\end{bmatrix}=
+		\begin{bmatrix}
+			10 \\
+			16\\
+			-1
+		\end{bmatrix}.
+$$
+
+![The Zhou Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Zhou_Attractor.png)
