@@ -1,6 +1,7 @@
 # Dynamics of Nonlinear Attractors
 This is where I'll post attractors I've plotted using [explicit Runge-Kutta methods](https://github.com/whydenyscry/General-algorithm-of-the-explicit-Runge-Kutta-method). 
-The vast majority of attractors I've learned about on [Jürgen Mayer's personal website](http://www.3d-meier.de/).
+The vast majority of attractors I've found on [Jürgen Mayer's personal website](http://www.3d-meier.de/), where you can find a list of sources where each attractor was found. 
+To attractors that I found not using this site, I will add the source.
 
 The plots are also available on Pinterest and Behance:
 
@@ -1506,7 +1507,7 @@ $$
 
 ## The Sprott Strange Multifractal Attractor
 ### Reference
-Sprott, J. (2020). Do We Need More Chaos Examples?. Chaos Theory and Applications, 2(2), 49-51. https://dergipark.org.tr/en/pub/chaos/issue/54264/735400
+[Sprott, J. (2020). Do We Need More Chaos Examples?. Chaos Theory and Applications, 2(2), 49-51.](https://dergipark.org.tr/en/pub/chaos/issue/54264/735400)
 
 $$ 
 \begin{cases}
