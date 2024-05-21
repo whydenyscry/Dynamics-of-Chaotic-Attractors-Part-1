@@ -1478,3 +1478,28 @@ $$
 $$
 
 ![The Zhou Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Zhou_Attractor.png)
+
+## The Elhadj—Sprott Attractor
+ 
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t}=\alpha\left(y-x\right), \\
+			\frac{\mathrm{d}y}{\mathrm{d}t}=-\alpha x -\beta yz, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=-\varsigma+y^2,
+		\end{cases}
+$$
+
+$$ 
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma
+		\end{bmatrix}=
+		\begin{bmatrix}
+			40 \\
+			33\\
+			10
+		\end{bmatrix}.
+$$
+
+![The Elhadj—Sprott Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Elhadj_Sprott_Attractor.png)
