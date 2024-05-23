@@ -2,13 +2,13 @@ clear
 clc
 close
 
-a = 2;
+a = 2/5;
 
-fun = @(t, x) [ a * x(3);
-               - a * x(2) + x(3);
-               - x(1) + x(2) + x(2) ^ 2];
+fun = @(t, x) [a * x(1) + x(3);
+                x(1) * x(3) - x(2);
+               - x(1) + x(2)];
 
-incond = [0.1 0.1 0.1];
+incond = [1 0 0];
 timeint = [0 300];
 
 tau = 0.001;
@@ -27,7 +27,7 @@ set(groot, "defaultColorbarTickLabelInterpreter", "latex");
  
 figure();
 scatter3(xsol(:, 1), xsol(:, 2), xsol(:, 3), 4, 1:length(xsol(:, 1)), 'filled');
-view([41.3 20.8])
+view([45.43 15.84])
 colormap gray;
 colorbar;
 axis tight;
@@ -36,9 +36,9 @@ box on;
 xlabel('$x$', 'FontSize', 14);
 ylabel('$y$', 'FontSize', 14);
 zlabel('$z$', 'FontSize', 14);
-title('The Sprott---Linz J Attractor', 'FontSize', 16);
+title('The Sprott G Attractor', 'FontSize', 16);
 
-% exportgraphics(gcf, "images_png/The_Sprott_Linz_J_Attractor.png", 'Resolution', 1200)
-% exportgraphics(gcf, "images_pdf/The_Sprott_Linz_J_Attractor.pdf", "ContentType", "vector")
-% exportgraphics(gcf, "images_eps/The_Sprott_Linz_J_Attractor.eps", "ContentType", "vector")
-% save("workspace/TheSprottLinzJAttractor.mat")
+% exportgraphics(gcf, "images_png/The_Sprott_G_Attractor.png", 'Resolution', 1200)
+% exportgraphics(gcf, "images_pdf/The_Sprott_G_Attractor.pdf", "ContentType", "vector")
+% exportgraphics(gcf, "images_eps/The_Sprott_G_Attractor.eps", "ContentType", "vector")
+% save("workspace/TheSprottGAttractor.mat")

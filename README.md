@@ -960,7 +960,7 @@ $$
 
 ![The Coullet Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Coullet_Attractor.png)
 
-## The Sprott—Linz A Attractor
+## The Sprott A Attractor
  
 $$ 
 \begin{cases}
@@ -970,9 +970,9 @@ $$
 		\end{cases}
 $$
 
-![The Sprott—Linz A Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_A_Attractor.png)
+![The Sprott A Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_A_Attractor.png)
 
-## The Sprott—Linz B Attractor
+## The Sprott B Attractor
  
 $$ 
 \begin{cases}
@@ -982,9 +982,9 @@ $$
 		\end{cases}
 $$
 
-![The Sprott—Linz B Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_B_Attractor.png)
+![The Sprott B Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_B_Attractor.png)
 
-## The Sprott—Linz C Attractor
+## The Sprott C Attractor
  
 $$ 
 \begin{cases}
@@ -994,9 +994,9 @@ $$
 		\end{cases}
 $$
 
-![The Sprott—Linz C Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_C_Attractor.png)
+![The Sprott C Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_C_Attractor.png)
 
-## The Sprott—Linz D Attractor
+## The Sprott D Attractor
  
 $$ 
 \begin{cases}
@@ -1010,9 +1010,9 @@ $$
 \alpha=3.
 $$
 
-![The Sprott—Linz D Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_D_Attractor.png)
+![The Sprott D Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_D_Attractor.png)
 
-## The Sprott—Linz E Attractor
+## The Sprott E Attractor
  
 $$ 
 \begin{cases}
@@ -1026,9 +1026,9 @@ $$
 \alpha=4.
 $$
 
-![The Sprott—Linz E Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_E_Attractor.png)
+![The Sprott E Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_E_Attractor.png)
 
-## The Sprott—Linz F Attractor
+## The Sprott F Attractor
  
 $$ 
 \begin{cases}
@@ -1042,9 +1042,9 @@ $$
 \alpha=\frac{1}{2}.
 $$
 
-![The Sprott—Linz F Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_F_Attractor.png)
+![The Sprott F Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_F_Attractor.png)
 
-## The Sprott—Linz G Attractor
+## The Sprott G Attractor
  
 $$ 
 \begin{cases}
@@ -1058,9 +1058,9 @@ $$
 \alpha=\frac{2}{5}.
 $$
 
-![The Sprott—Linz G Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_G_Attractor.png)
+![The Sprott G Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_G_Attractor.png)
 
-## The Sprott—Linz H Attractor
+## The Sprott H Attractor
  
 $$ 
 \begin{cases}
@@ -1074,9 +1074,9 @@ $$
 \alpha=\frac{1}{2}.
 $$
 
-![The Sprott—Linz H Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_H_Attractor.png)
+![The Sprott H Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_H_Attractor.png)
 
-## The Sprott—Linz I Attractor
+## The Sprott I Attractor
  
 $$ 
 \begin{cases}
@@ -1090,9 +1090,9 @@ $$
 \alpha=-\frac{1}{5}.
 $$
 
-![The Sprott—Linz I Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_I_Attractor.png)
+![The Sprott I Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_I_Attractor.png)
 
-## The Sprott—Linz J Attractor
+## The Sprott J Attractor
  
 $$ 
 \begin{cases}
@@ -1106,9 +1106,9 @@ $$
 \alpha=2.
 $$
 
-![The Sprott—Linz J Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_J_Attractor.png)
+![The Sprott J Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_J_Attractor.png)
 
-## The Sprott—Linz K Attractor
+## The Sprott K Attractor
  
 $$ 
 \begin{cases}
@@ -1122,9 +1122,9 @@ $$
 \alpha=\frac{3}{10}.
 $$
 
-![The Sprott—Linz K Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_K_Attractor.png)
+![The Sprott K Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_K_Attractor.png)
 
-## The Sprott—Linz L Attractor
+## The Sprott L Attractor
  
 $$ 
 \begin{cases}
@@ -1145,9 +1145,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Sprott—Linz L Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_L_Attractor.png)
+![The Sprott L Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_L_Attractor.png)
 
-## The Sprott—Linz M Attractor
+## The Sprott M Attractor
  
 $$ 
 \begin{cases}
@@ -1161,9 +1161,9 @@ $$
 \alpha=\frac{17}{10}.
 $$
 
-![The Sprott—Linz M Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_M_Attractor.png)
+![The Sprott M Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_M_Attractor.png)
 
-## The Sprott—Linz N Attractor
+## The Sprott N Attractor
  
 $$ 
 \begin{cases}
@@ -1177,9 +1177,9 @@ $$
 \alpha=2.
 $$
 
-![The Sprott—Linz N Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_N_Attractor.png)
+![The Sprott N Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_N_Attractor.png)
 
-## The Sprott—Linz O Attractor
+## The Sprott O Attractor
  
 $$ 
 \begin{cases}
@@ -1193,9 +1193,9 @@ $$
 \alpha=\frac{27}{10}.
 $$
 
-![The Sprott—Linz O Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_O_Attractor.png)
+![The Sprott O Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_O_Attractor.png)
 
-## The Sprott—Linz P Attractor
+## The Sprott P Attractor
  
 $$ 
 \begin{cases}
@@ -1209,9 +1209,9 @@ $$
 \alpha=\frac{27}{10}.
 $$
 
-![The Sprott—Linz P Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_P_Attractor.png)
+![The Sprott P Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_P_Attractor.png)
 
-## The Sprott—Linz Q Attractor
+## The Sprott Q Attractor
  
 $$ 
 \begin{cases}
@@ -1232,9 +1232,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Sprott—Linz Q Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_Q_Attractor.png)
+![The Sprott Q Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Q_Attractor.png)
 
-## The Sprott—Linz R Attractor
+## The Sprott R Attractor
  
 $$ 
 \begin{cases}
@@ -1255,9 +1255,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Sprott—Linz R Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_R_Attractor.png)
+![The Sprott R Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_R_Attractor.png)
 
-## The Sprott—Linz S Attractor
+## The Sprott S Attractor
  
 $$ 
 \begin{cases}
@@ -1271,7 +1271,7 @@ $$
 \alpha=4.
 $$
 
-![The Sprott—Linz S Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Linz_S_Attractor.png)
+![The Sprott S Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_S_Attractor.png)
 
 ## The TSUCS1 Attractor
  

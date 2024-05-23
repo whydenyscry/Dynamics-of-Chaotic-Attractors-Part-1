@@ -4,9 +4,9 @@ close
 
 fun = @(t, x) [x(2) * x(3);
                x(1) - x(2);
-               1 - x(1) * x(2)];
+               1 - x(1) ^ 2];
 
-incond = [0.1 0.1 0.1];
+incond = [1 0 1];
 timeint = [0 300];
 
 tau = 0.001;
@@ -34,9 +34,9 @@ box on;
 xlabel('$x$', 'FontSize', 14);
 ylabel('$y$', 'FontSize', 14);
 zlabel('$z$', 'FontSize', 14);
-title('The Sprott---Linz B Attractor', 'FontSize', 16);
+title('The Sprott C Attractor', 'FontSize', 16);
 
-% exportgraphics(gcf, "images_png/The_Sprott_Linz_B_Attractor.png", 'Resolution', 1200)
-% exportgraphics(gcf, "images_pdf/The_Sprott_Linz_B_Attractor.pdf", "ContentType", "vector")
-% exportgraphics(gcf, "images_eps/The_Sprott_Linz_B_Attractor.eps", "ContentType", "vector")
-% save("workspace/TheSprottLinzBAttractor.mat")
+% exportgraphics(gcf, "images_png/The_Sprott_C_Attractor.png", 'Resolution', 1200)
+% exportgraphics(gcf, "images_pdf/The_Sprott_C_Attractor.pdf", "ContentType", "vector")
+% exportgraphics(gcf, "images_eps/The_Sprott_C_Attractor.eps", "ContentType", "vector")
+% save("workspace/TheSprottCAttractor.mat")
