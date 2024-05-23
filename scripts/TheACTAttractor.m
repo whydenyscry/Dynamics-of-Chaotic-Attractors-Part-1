@@ -44,4 +44,5 @@ title('The ACT Attractor', 'FontSize', 16);
 % exportgraphics(gcf, "images_png/The_ACT_Attractor.png", 'Resolution', 1200)
 % exportgraphics(gcf, "images_pdf/The_ACT_Attractor.pdf", "ContentType", "vector")
 % exportgraphics(gcf, "images_eps/The_ACT_Attractor.eps", "ContentType", "vector")
+% print(gcf, "images_svg/The_ACT_Attractor.svg", "-dsvg")
 % save("workspace/TheACTAttractor.mat")

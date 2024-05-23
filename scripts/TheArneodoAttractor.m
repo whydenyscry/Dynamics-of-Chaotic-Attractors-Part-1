@@ -43,4 +43,5 @@ title('The Arneodo Attractor', 'FontSize', 16);
 % exportgraphics(gcf, "images_png/The_Arneodo_Attractor.png", 'Resolution', 1200)
 % exportgraphics(gcf, "images_pdf/The_Arneodo_Attractor.pdf", "ContentType", "vector")
 % exportgraphics(gcf, "images_eps/The_Arneodo_Attractor.eps", "ContentType", "vector")
+% print(gcf, "images_svg/The_Arneodo_Attractor.svg", "-dsvg")
 % save("workspace/TheArneodoAttractor.mat")

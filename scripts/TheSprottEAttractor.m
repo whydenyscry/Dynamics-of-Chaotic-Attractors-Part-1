@@ -41,4 +41,5 @@ title('The Sprott E Attractor', 'FontSize', 16);
 % exportgraphics(gcf, "images_png/The_Sprott_E_Attractor.png", 'Resolution', 1200)
 % exportgraphics(gcf, "images_pdf/The_Sprott_E_Attractor.pdf", "ContentType", "vector")
 % exportgraphics(gcf, "images_eps/The_Sprott_E_Attractor.eps", "ContentType", "vector")
+% print(gcf, "images_svg/The_Sprott_E_Attractor.svg", "-dsvg")
 % save("workspace/TheSprottEAttractor.mat")

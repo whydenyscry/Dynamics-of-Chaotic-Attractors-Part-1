@@ -45,4 +45,5 @@ title('The TSUCS1 Attractor', 'FontSize', 16);
 % exportgraphics(gcf, "images_png/The_TSUCS1_Attractor.png", 'Resolution', 1200)
 % exportgraphics(gcf, "images_pdf/The_TSUCS1_Attractor.pdf", "ContentType", "vector")
 % exportgraphics(gcf, "images_eps/The_TSUCS1_Attractor.eps", "ContentType", "vector")
+% print(gcf, "images_svg/The_TSUCS1_Attractor.svg", "-dsvg")
 % save("workspace/TheTSUCS1Attractor.mat")

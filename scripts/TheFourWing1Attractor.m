@@ -45,4 +45,5 @@ title('The Four---Wing 1 Attractor', 'FontSize', 16);
 % exportgraphics(gcf, "images_png/The_Four_Wing_1_Attractor.png", 'Resolution', 1200)
 % exportgraphics(gcf, "images_pdf/The_Four_Wing_1_Attractor.pdf", "ContentType", "vector")
 % exportgraphics(gcf, "images_eps/The_Four_Wing_1_Attractor.eps", "ContentType", "vector")
+% print(gcf, "images_svg/The_Four_Wing_1_Attractor.svg", "-dsvg")
 % save("workspace/TheFourWing1Attractor.mat")

@@ -44,4 +44,5 @@ title('The Elhadj---Sprott Attractor', 'FontSize', 16);
 % exportgraphics(gcf, "images_png/The_Elhadj_Sprott_Attractor.png", 'Resolution', 1200)
 % exportgraphics(gcf, "images_pdf/The_Elhadj_Sprott_Attractor.pdf", "ContentType", "vector")
 % exportgraphics(gcf, "images_eps/The_Elhadj_Sprott_Attractor.eps", "ContentType", "vector")
+% print(gcf, "images_svg/The_Elhadj_Sprott_Attractor.svg", "-dsvg")
 % save("workspace/TheElhadjSprottAttractor.mat")

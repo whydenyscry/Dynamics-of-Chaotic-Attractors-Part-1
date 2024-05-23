@@ -49,4 +49,5 @@ title('The Hindmarsh---Rose Attractor', 'FontSize', 16);
 % exportgraphics(gcf, "images_png/The_Hindmarsh_Rose_Attractor.png", 'Resolution', 1200)
 % exportgraphics(gcf, "images_pdf/The_Hindmarsh_Rose_Attractor.pdf", "ContentType", "vector")
 % exportgraphics(gcf, "images_eps/The_Hindmarsh_Rose_Attractor.eps", "ContentType", "vector")
+% print(gcf, "images_svg/The_Hindmarsh_Rose_Attractor.svg", "-dsvg")
 % save("workspace/TheHindmarshRoseAttractor.mat")

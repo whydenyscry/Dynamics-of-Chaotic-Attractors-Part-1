@@ -44,4 +44,5 @@ title('The Wang Attractor', 'FontSize', 16);
 % exportgraphics(gcf, "images_png/The_Wang_Attractor.png", 'Resolution', 1200)
 % exportgraphics(gcf, "images_pdf/The_Wang_Attractor.pdf", "ContentType", "vector")
 % exportgraphics(gcf, "images_eps/The_Wang_Attractor.eps", "ContentType", "vector")
+% print(gcf, "images_svg/The_Wang_Attractor.svg", "-dsvg")
 % save("workspace/TheWangAttractor.mat")

@@ -52,4 +52,5 @@ title('The Deng Attractor', 'FontSize', 16);
 % exportgraphics(gcf, "images_png/The_Deng_Attractor.png", 'Resolution', 1200)
 % exportgraphics(gcf, "images_pdf/The_Deng_Attractor.pdf", "ContentType", "vector")
 % exportgraphics(gcf, "images_eps/The_Deng_Attractor.eps", "ContentType", "vector")
+% print(gcf, "images_svg/The_Deng_Attractor.svg", "-dsvg")
 % save("workspace/TheDengAttractor.mat")

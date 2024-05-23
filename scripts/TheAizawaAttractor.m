@@ -47,4 +47,5 @@ title('The Aizawa Attractor', 'FontSize', 16);
 % exportgraphics(gcf, "images_png/The_Aizawa_Attractor.png", 'Resolution', 1200)
 % exportgraphics(gcf, "images_pdf/The_Aizawa_Attractor.pdf", "ContentType", "vector")
 % exportgraphics(gcf, "images_eps/The_Aizawa_Attractor.eps", "ContentType", "vector")
+% print(gcf, "images_svg/The_Aizawa_Attractor.svg", "-dsvg")
 % save("workspace/TheAizawaAttractor.mat")

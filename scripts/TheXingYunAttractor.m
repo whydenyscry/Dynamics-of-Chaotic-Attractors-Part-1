@@ -44,4 +44,5 @@ title('The Xing---Yun Attractor', 'FontSize', 16);
 % exportgraphics(gcf, "images_png/The_Xing_Yun_Attractor.png", 'Resolution', 1200)
 % exportgraphics(gcf, "images_pdf/The_Xing_Yun_Attractor.pdf", "ContentType", "vector")
 % exportgraphics(gcf, "images_eps/The_Xing_Yun_Attractor.eps", "ContentType", "vector")
+% print(gcf, "images_svg/The_Xing_Yun_Attractor.svg", "-dsvg")
 % save("workspace/TheXingYunAttractor.mat")

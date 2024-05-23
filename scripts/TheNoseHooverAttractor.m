@@ -41,4 +41,5 @@ title('The Nose---Hoover Attractor', 'FontSize', 16);
 % exportgraphics(gcf, "images_png/The_Nose_Hoover_Attractor.png", 'Resolution', 1200)
 % exportgraphics(gcf, "images_pdf/The_Nose_Hoover_Attractor.pdf", "ContentType", "vector")
 % exportgraphics(gcf, "images_eps/The_Nose_Hoover_Attractor.eps", "ContentType", "vector")
+% print(gcf, "images_svg/The_Nose_Hoover_Attractor.svg", "-dsvg")
 % save("workspace/TheNoseHooverAttractor.mat")

@@ -44,4 +44,5 @@ title('The Lorenz Mod 1 Attractor', 'FontSize', 16);
 % exportgraphics(gcf, "images_png/The_Lorenz_Mod_1_Attractor.png", 'Resolution', 1200)
 % exportgraphics(gcf, "images_pdf/The_Lorenz_Mod_1_Attractor.pdf", "ContentType", "vector")
 % exportgraphics(gcf, "images_eps/The_Lorenz_Mod_1_Attractor.eps", "ContentType", "vector")
+% print(gcf, "images_svg/The_Lorenz_Mod_1_Attractor.svg", "-dsvg")
 % save("workspace/TheLorenzMod1Attractor.mat")

@@ -43,4 +43,5 @@ title('The Genesio---Tesi Attractor', 'FontSize', 16);
 % exportgraphics(gcf, "images_png/The_Genesio_Tesi_Attractor.png", 'Resolution', 1200)
 % exportgraphics(gcf, "images_pdf/The_Genesio_Tesi_Attractor.pdf", "ContentType", "vector")
 % exportgraphics(gcf, "images_eps/The_Genesio_Tesi_Attractor.eps", "ContentType", "vector")
+% print(gcf, "images_svg/The_Genesio_Tesi_Attractor.svg", "-dsvg")
 % save("workspace/TheGenesioTesiAttractor.mat")
