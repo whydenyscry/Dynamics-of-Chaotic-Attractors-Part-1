@@ -31,7 +31,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Lorenz_Attractor.svg"/>
+  <img src="images_png/The_Lorenz_Attractor.png"/>
 </p>
 
 ## The Lorenz Mod 1 Attractor
@@ -60,7 +60,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Lorenz_Mod_1_Attractor.svg"/>
+  <img src="images_png/The_Lorenz_Mod_1_Attractor.png"/>
 </p>
 
 ## The Lorenz Mod 2 Attractor
@@ -89,7 +89,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Lorenz_Mod_2_Attractor.svg"/>
+  <img src="images_png/The_Lorenz_Mod_2_Attractor.png"/>
 </p>
 
 ## The Lotka—Volterra Attractor
@@ -116,7 +116,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Lotka_Volterra_Attractor.svg"/>
+  <img src="images_png/The_Lotka_Volterra_Attractor.png"/>
 </p>
 
 ## The Aizawa Attractor
@@ -149,7 +149,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Aizawa_Attractor.svg"/>
+  <img src="images_png/The_Aizawa_Attractor.png"/>
 </p>
 
 ## The Tamari Attractor
@@ -187,7 +187,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Tamari_Attractor.svg"/>
+  <img src="images_png/The_Tamari_Attractor.png"/>
 </p>
 
 ## The Halvorsen Attractor
@@ -205,7 +205,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Halvorsen_Attractor.svg"/>
+  <img src="images_png/The_Halvorsen_Attractor.png"/>
 </p>
 
 ## The Thomas Attractor
@@ -223,7 +223,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Thomas_Attractor.svg"/>
+  <img src="images_png/The_Thomas_Attractor.png"/>
 </p>
 
 ## The ACT Attractor
@@ -252,7 +252,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_ACT_Attractor.svg"/>
+  <img src="images_png/The_ACT_Attractor.png"/>
 </p>
 
 ## The Hindmarsh—Rose Attractor
@@ -289,7 +289,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Hindmarsh_Rose_Attractor.svg"/>
+  <img src="images_png/The_Hindmarsh_Rose_Attractor.png"/>
 </p>
 
 ## The Rucklidge Attractor
@@ -314,7 +314,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Rucklidge_Attractor.svg"/>
+  <img src="images_png/The_Rucklidge_Attractor.png"/>
 </p>
 
 ## The Arneodo Attractor
@@ -341,7 +341,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Arneodo_Attractor.svg"/>
+  <img src="images_png/The_Arneodo_Attractor.png"/>
 </p>
 
 ## The 3-Cells CNN Attractor
@@ -374,7 +374,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_3_Cells_CNN_Attractor.svg"/>
+  <img src="images_png/The_3_Cells_CNN_Attractor.png"/>
 </p>
 
 ## The Dadras Attractor
@@ -405,7 +405,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Dadras_Attractor.svg"/>
+  <img src="images_png/The_Dadras_Attractor.png"/>
 </p>
 
 ## The Rössler Attractor
@@ -431,7 +431,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Rossler_Attractor.svg"/>
+  <img src="images_png/The_Rossler_Attractor.png"/>
 </p>
 
 ## The Finance Attractor
@@ -457,7 +457,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Finance_Attractor.svg"/>
+  <img src="images_png/The_Finance_Attractor.png"/>
 </p>
 
 ## The Chen—Celikovsky Attractor
@@ -483,7 +483,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Chen_Celikovsky_Attractor.svg"/>
+  <img src="images_png/The_Chen_Celikovsky_Attractor.png"/>
 </p>
 
 ## The Hadley Attractor
@@ -512,7 +512,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Hadley_Attractor.svg"/>
+  <img src="images_png/The_Hadley_Attractor.png"/>
 </p>
 
 ## The Wang Attractor
@@ -541,7 +541,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Wang_Attractor.svg"/>
+  <img src="images_png/The_Wang_Attractor.png"/>
 </p>
 
 ## The Wimol—Banlue Attractor
@@ -559,7 +559,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Wimol_Banlue_Attractor.svg"/>
+  <img src="images_png/The_Wimol_Banlue_Attractor.png"/>
 </p>
 
 ## The Deng Attractor
@@ -604,7 +604,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Deng_Attractor.svg"/>
+  <img src="images_png/The_Deng_Attractor.png"/>
 </p>
 
 ## The Shimizu—Morioka Attractor
@@ -629,7 +629,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Shimizu_Morioka_Attractor.svg"/>
+  <img src="images_png/The_Shimizu_Morioka_Attractor.png"/>
 </p>
 
 ## The Nose—Hoover Attractor
@@ -647,7 +647,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Nose_Hoover_Attractor.svg"/>
+  <img src="images_png/The_Nose_Hoover_Attractor.png"/>
 </p>
 
 ## The Wang—Sun Attractor
@@ -679,7 +679,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Wang_Sun_Attractor.svg"/>
+  <img src="images_png/The_Wang_Sun_Attractor.png"/>
 </p>
 
 ## The Xing—Yun Attractor
@@ -708,7 +708,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Xing_Yun_Attractor.svg"/>
+  <img src="images_png/The_Xing_Yun_Attractor.png"/>
 </p>
 
 ## The Lü—Chen Attractor
@@ -735,7 +735,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Lu_Chen_Attractor.svg"/>
+  <img src="images_png/The_Lu_Chen_Attractor.png"/>
 </p>
 
 ## The Burke—Shaw Attractor
@@ -760,7 +760,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Burke_Shaw_Attractor.svg"/>
+  <img src="images_png/The_Burke_Shaw_Attractor.png"/>
 </p>
 
 ## The Zhou—Chen Attractor
@@ -791,7 +791,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Zhou_Chen_Attractor.svg"/>
+  <img src="images_png/The_Zhou_Chen_Attractor.png"/>
 </p>
 
 ## The Genesio—Tesi Attractor
@@ -818,7 +818,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Genesio_Tesi_Attractor.svg"/>
+  <img src="images_png/The_Genesio_Tesi_Attractor.png"/>
 </p>
 
 ## The Yu—Wang Attractor
@@ -847,7 +847,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Yu_Wang_Attractor.svg"/>
+  <img src="images_png/The_Yu_Wang_Attractor.png"/>
 </p>
 
 ## The Sakarya Attractor
@@ -872,7 +872,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sakarya_Attractor.svg"/>
+  <img src="images_png/The_Sakarya_Attractor.png"/>
 </p>
 
 ## The Chua Attractor
@@ -901,7 +901,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Chua_Attractor.svg"/>
+  <img src="images_png/The_Chua_Attractor.png"/>
 </p>
 
 ## The Chua Cubic Attractor
@@ -928,7 +928,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Chua_Cubic_Attractor.svg"/>
+  <img src="images_png/The_Chua_Cubic_Attractor.png"/>
 </p>
 
 ## The Modified Chua Attractor
@@ -959,7 +959,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Modified_Chua_Attractor.svg"/>
+  <img src="images_png/The_Modified_Chua_Attractor.png"/>
 </p>
 
 ## The Muthuswamy—Chua Attractor
@@ -977,7 +977,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Muthuswamy_Chua_Attractor.svg"/>
+  <img src="images_png/The_Muthuswamy_Chua_Attractor.png"/>
 </p>
 
 ## The Moore—Spiegel Attractor
@@ -1002,7 +1002,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Moore_Spiegel_Attractor.svg"/>
+  <img src="images_png/The_Moore_Spiegel_Attractor.png"/>
 </p>
 
 ## The Coullet Attractor
@@ -1031,7 +1031,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Coullet_Attractor.svg"/>
+  <img src="images_png/The_Coullet_Attractor.png"/>
 </p>
 
 ## The Sprott A Attractor
@@ -1045,7 +1045,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_A_Attractor.svg"/>
+  <img src="images_png/The_Sprott_A_Attractor.png"/>
 </p>
 
 ## The Sprott B Attractor
@@ -1059,7 +1059,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_B_Attractor.svg"/>
+  <img src="images_png/The_Sprott_B_Attractor.png"/>
 </p>
 
 ## The Sprott C Attractor
@@ -1073,7 +1073,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_C_Attractor.svg"/>
+  <img src="images_png/The_Sprott_C_Attractor.png"/>
 </p>
 
 ## The Sprott D Attractor
@@ -1091,7 +1091,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_D_Attractor.svg"/>
+  <img src="images_png/The_Sprott_D_Attractor.png"/>
 </p>
 
 ## The Sprott E Attractor
@@ -1109,7 +1109,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_E_Attractor.svg"/>
+  <img src="images_png/The_Sprott_E_Attractor.png"/>
 </p>
 
 ## The Sprott F Attractor
@@ -1127,7 +1127,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_F_Attractor.svg"/>
+  <img src="images_png/The_Sprott_F_Attractor.png"/>
 </p>
 
 ## The Sprott G Attractor
@@ -1145,7 +1145,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_G_Attractor.svg"/>
+  <img src="images_png/The_Sprott_G_Attractor.png"/>
 </p>
 
 ## The Sprott H Attractor
@@ -1163,7 +1163,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_H_Attractor.svg"/>
+  <img src="images_png/The_Sprott_H_Attractor.png"/>
 </p>
 
 ## The Sprott I Attractor
@@ -1181,7 +1181,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_I_Attractor.svg"/>
+  <img src="images_png/The_Sprott_I_Attractor.png"/>
 </p>
 
 ## The Sprott J Attractor
@@ -1199,7 +1199,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_J_Attractor.svg"/>
+  <img src="images_png/The_Sprott_J_Attractor.png"/>
 </p>
 
 ## The Sprott K Attractor
@@ -1217,7 +1217,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_K_Attractor.svg"/>
+  <img src="images_png/The_Sprott_K_Attractor.png"/>
 </p>
 
 ## The Sprott L Attractor
@@ -1242,7 +1242,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_L_Attractor.svg"/>
+  <img src="images_png/The_Sprott_L_Attractor.png"/>
 </p>
 
 ## The Sprott M Attractor
@@ -1260,7 +1260,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_M_Attractor.svg"/>
+  <img src="images_png/The_Sprott_M_Attractor.png"/>
 </p>
 
 ## The Sprott N Attractor
@@ -1278,7 +1278,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_N_Attractor.svg"/>
+  <img src="images_png/The_Sprott_N_Attractor.png"/>
 </p>
 
 ## The Sprott O Attractor
@@ -1296,7 +1296,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_O_Attractor.svg"/>
+  <img src="images_png/The_Sprott_O_Attractor.png"/>
 </p>
 
 ## The Sprott P Attractor
@@ -1314,7 +1314,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_P_Attractor.svg"/>
+  <img src="images_png/The_Sprott_P_Attractor.png"/>
 </p>
 
 ## The Sprott Q Attractor
@@ -1339,7 +1339,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_Q_Attractor.svg"/>
+  <img src="images_png/The_Sprott_Q_Attractor.png"/>
 </p>
 
 ## The Sprott R Attractor
@@ -1364,7 +1364,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_R_Attractor.svg"/>
+  <img src="images_png/The_Sprott_R_Attractor.png"/>
 </p>
 
 ## The Sprott S Attractor
@@ -1382,7 +1382,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_S_Attractor.svg"/>
+  <img src="images_png/The_Sprott_S_Attractor.png"/>
 </p>
 
 ## The TSUCS1 Attractor
@@ -1413,7 +1413,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_TSUCS1_Attractor.svg"/>
+  <img src="images_png/The_TSUCS1_Attractor.png"/>
 </p>
 
 ## The TSUCS2 Attractor
@@ -1446,7 +1446,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_TSUCS2_Attractor.svg"/>
+  <img src="images_png/The_TSUCS2_Attractor.png"/>
 </p>
 
 ## The Rikitake Attractor
@@ -1471,7 +1471,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Rikitake_Attractor.svg"/>
+  <img src="images_png/The_Rikitake_Attractor.png"/>
 </p>
 
 ## The Newton—Leipnik Attractor
@@ -1496,7 +1496,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Newton_Leipnik_Attractor.svg"/>
+  <img src="images_png/The_Newton_Leipnik_Attractor.png"/>
 </p>
 
 ## The Four—Wing 1 Attractor
@@ -1527,7 +1527,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Four_Wing_1_Attractor.svg"/>
+  <img src="images_png/The_Four_Wing_1_Attractor.png"/>
 </p>
 
 ## The Four—Wing 2 Attractor
@@ -1560,7 +1560,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Four_Wing_2_Attractor.svg"/>
+  <img src="images_png/The_Four_Wing_2_Attractor.png"/>
 </p>
 
 ## The Four—Wing 3 Attractor
@@ -1578,7 +1578,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Four_Wing_3_Attractor.svg"/>
+  <img src="images_png/The_Four_Wing_3_Attractor.png"/>
 </p>
 
 ## The Zhou Attractor
@@ -1605,7 +1605,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Zhou_Attractor.svg"/>
+  <img src="images_png/The_Zhou_Attractor.png"/>
 </p>
 
 ## The Elhadj—Sprott Attractor
@@ -1632,7 +1632,7 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Elhadj_Sprott_Attractor.svg"/>
+  <img src="images_png/The_Elhadj_Sprott_Attractor.png"/>
 </p>
 
 ## The Sprott Strange Multifractal Attractor
@@ -1648,5 +1648,5 @@ $$
 $$
 
 <p align="center">
-  <img src="images_svg/The_Sprott_Strange_Multifractal_Attractor.svg"/>
+  <img src="images_png/The_Sprott_Strange_Multifractal_Attractor.png"/>
 </p>
