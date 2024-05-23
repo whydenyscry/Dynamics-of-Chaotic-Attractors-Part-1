@@ -30,7 +30,9 @@ $$
 	\end{bmatrix}.
 $$
 
-![The Lorenz Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Lorenz_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Lorenz_Attractor.svg"/>
+</p>
 
 ## The Lorenz Mod 1 Attractor
  
@@ -57,7 +59,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Lorenz Mod 1 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Lorenz_Mod_1_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Lorenz_Mod_1_Attractor.svg"/>
+</p>
 
 ## The Lorenz Mod 2 Attractor
  
@@ -84,7 +88,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Lorenz Mod 2 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Lorenz_Mod_2_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Lorenz_Mod_2_Attractor.svg"/>
+</p>
 
 ## The Lotka—Volterra Attractor
  
@@ -109,7 +115,9 @@ $$
 \end{bmatrix}.
 $$
 
-![The Lotka—Volterra Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Lotka_Volterra_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Lotka_Volterra_Attractor.svg"/>
+</p>
 
 ## The Aizawa Attractor
  
@@ -140,7 +148,9 @@ $$
 \end{bmatrix}.
 $$
 
-![The Aizawa Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Aizawa_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Aizawa_Attractor.svg"/>
+</p>
 
 ## The Tamari Attractor
  
@@ -176,7 +186,9 @@ $$
 \end{bmatrix}.
 $$
 
-![The Tamari Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Tamari_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Tamari_Attractor.svg"/>
+</p>
 
 ## The Halvorsen Attractor
  
@@ -192,7 +204,9 @@ $$
 \alpha=1.4.
 $$
 
-![The Halvorsen Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Halvorsen_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Halvorsen_Attractor.svg"/>
+</p>
 
 ## The Thomas Attractor
  
@@ -208,7 +222,9 @@ $$
 \beta=0.19.
 $$
 
-![The Thomas Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Thomas_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Thomas_Attractor.svg"/>
+</p>
 
 ## The ACT Attractor
  
@@ -235,7 +251,9 @@ $$
 \end{bmatrix}.
 $$
 
-![The ACT Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_ACT_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_ACT_Attractor.svg"/>
+</p>
 
 ## The Hindmarsh—Rose Attractor
  
@@ -270,7 +288,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Hindmarsh—Rose Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Hindmarsh_Rose_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Hindmarsh_Rose_Attractor.svg"/>
+</p>
 
 ## The Rucklidge Attractor
  
@@ -293,7 +313,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Rucklidge Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Rucklidge_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Rucklidge_Attractor.svg"/>
+</p>
 
 ## The Arneodo Attractor
  
@@ -318,7 +340,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Arneodo Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Arneodo_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Arneodo_Attractor.svg"/>
+</p>
 
 ## The 3-Cells CNN Attractor
  
@@ -349,7 +373,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The 3-Cells CNN Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_3_Cells_CNN_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_3_Cells_CNN_Attractor.svg"/>
+</p>
 
 ## The Dadras Attractor
  
@@ -378,7 +404,9 @@ $$
 	\end{bmatrix}.
 $$
 
-![The Dadras Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Dadras_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Dadras_Attractor.svg"/>
+</p>
 
 ## The Rössler Attractor
  
@@ -402,7 +430,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Rössler Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Rossler_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Rossler_Attractor.svg"/>
+</p>
 
 ## The Finance Attractor
  
@@ -426,7 +456,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Finance Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Finance_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Finance_Attractor.svg"/>
+</p>
 
 ## The Chen—Celikovsky Attractor
  
@@ -450,7 +482,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Chen—Celikovsky Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Chen_Celikovsky_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Chen_Celikovsky_Attractor.svg"/>
+</p>
 
 ## The Hadley Attractor
  
@@ -477,7 +511,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Hadley Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Hadley_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Hadley_Attractor.svg"/>
+</p>
 
 ## The Wang Attractor
  
@@ -504,7 +540,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Wang Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Wang_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Wang_Attractor.svg"/>
+</p>
 
 ## The Wimol—Banlue Attractor
  
@@ -520,7 +558,9 @@ $$
 \alpha = 2.
 $$
 
-![The Wimol—Banlue Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Wimol_Banlue_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Wimol_Banlue_Attractor.svg"/>
+</p>
 
 ## The Deng Attractor
  
@@ -563,7 +603,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Deng Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Deng_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Deng_Attractor.svg"/>
+</p>
 
 ## The Shimizu—Morioka Attractor
  
@@ -586,7 +628,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Shimizu—Morioka Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Shimizu_Morioka_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Shimizu_Morioka_Attractor.svg"/>
+</p>
 
 ## The Nose—Hoover Attractor
  
@@ -602,7 +646,9 @@ $$
 \alpha=1.5.
 $$
 
-![The Nose—Hoover Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Nose_Hoover_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Nose_Hoover_Attractor.svg"/>
+</p>
 
 ## The Wang—Sun Attractor
  
@@ -632,7 +678,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Wang—Sun Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Wang_Sun_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Wang_Sun_Attractor.svg"/>
+</p>
 
 ## The Xing—Yun Attractor
  
@@ -659,7 +707,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Xing—Yun Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Xing_Yun_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Xing_Yun_Attractor.svg"/>
+</p>
 
 ## The Lü—Chen Attractor
  
@@ -684,7 +734,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Lü—Chen Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Lu_Chen_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Lu_Chen_Attractor.svg"/>
+</p>
 
 ## The Burke—Shaw Attractor
  
@@ -707,7 +759,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Burke—Shaw Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Burke_Shaw_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Burke_Shaw_Attractor.svg"/>
+</p>
 
 ## The Zhou—Chen Attractor
  
@@ -736,7 +790,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Zhou—Chen Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Zhou_Chen_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Zhou_Chen_Attractor.svg"/>
+</p>
 
 ## The Genesio—Tesi Attractor
  
@@ -761,7 +817,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Genesio—Tesi Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Genesio_Tesi_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Genesio_Tesi_Attractor.svg"/>
+</p>
 
 ## The Yu—Wang Attractor
  
@@ -788,7 +846,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Yu—Wang Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Yu_Wang_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Yu_Wang_Attractor.svg"/>
+</p>
 
 ## The Sakarya Attractor
  
@@ -811,7 +871,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Sakarya Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sakarya_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sakarya_Attractor.svg"/>
+</p>
 
 ## The Chua Attractor
  
@@ -838,7 +900,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Chua Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Chua_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Chua_Attractor.svg"/>
+</p>
 
 ## The Chua Cubic Attractor
  
@@ -863,7 +927,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Chua Cubic Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Chua_Cubic_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Chua_Cubic_Attractor.svg"/>
+</p>
 
 ## The Modified Chua Attractor
  
@@ -892,7 +958,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Modified Chua Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Modified_Chua_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Modified_Chua_Attractor.svg"/>
+</p>
 
 ## The Muthuswamy—Chua Attractor
  
@@ -908,7 +976,9 @@ $$
 \alpha=0.6.
 $$
 
-![The Muthuswamy—Chua Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Muthuswamy_Chua_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Muthuswamy_Chua_Attractor.svg"/>
+</p>
 
 ## The Moore—Spiegel Attractor
  
@@ -931,7 +1001,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Moore—Spiegel Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Moore_Spiegel_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Moore_Spiegel_Attractor.svg"/>
+</p>
 
 ## The Coullet Attractor
  
@@ -958,7 +1030,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Coullet Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Coullet_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Coullet_Attractor.svg"/>
+</p>
 
 ## The Sprott A Attractor
  
@@ -970,7 +1044,9 @@ $$
 		\end{cases}
 $$
 
-![The Sprott A Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_A_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_A_Attractor.svg"/>
+</p>
 
 ## The Sprott B Attractor
  
@@ -982,7 +1058,9 @@ $$
 		\end{cases}
 $$
 
-![The Sprott B Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_B_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_B_Attractor.svg"/>
+</p>
 
 ## The Sprott C Attractor
  
@@ -994,7 +1072,9 @@ $$
 		\end{cases}
 $$
 
-![The Sprott C Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_C_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_C_Attractor.svg"/>
+</p>
 
 ## The Sprott D Attractor
  
@@ -1010,7 +1090,9 @@ $$
 \alpha=3.
 $$
 
-![The Sprott D Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_D_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_D_Attractor.svg"/>
+</p>
 
 ## The Sprott E Attractor
  
@@ -1026,7 +1108,9 @@ $$
 \alpha=4.
 $$
 
-![The Sprott E Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_E_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_E_Attractor.svg"/>
+</p>
 
 ## The Sprott F Attractor
  
@@ -1042,7 +1126,9 @@ $$
 \alpha=\frac{1}{2}.
 $$
 
-![The Sprott F Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_F_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_F_Attractor.svg"/>
+</p>
 
 ## The Sprott G Attractor
  
@@ -1058,7 +1144,9 @@ $$
 \alpha=\frac{2}{5}.
 $$
 
-![The Sprott G Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_G_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_G_Attractor.svg"/>
+</p>
 
 ## The Sprott H Attractor
  
@@ -1074,7 +1162,9 @@ $$
 \alpha=\frac{1}{2}.
 $$
 
-![The Sprott H Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_H_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_H_Attractor.svg"/>
+</p>
 
 ## The Sprott I Attractor
  
@@ -1090,7 +1180,9 @@ $$
 \alpha=-\frac{1}{5}.
 $$
 
-![The Sprott I Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_I_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_I_Attractor.svg"/>
+</p>
 
 ## The Sprott J Attractor
  
@@ -1106,7 +1198,9 @@ $$
 \alpha=2.
 $$
 
-![The Sprott J Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_J_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_J_Attractor.svg"/>
+</p>
 
 ## The Sprott K Attractor
  
@@ -1122,7 +1216,9 @@ $$
 \alpha=\frac{3}{10}.
 $$
 
-![The Sprott K Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_K_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_K_Attractor.svg"/>
+</p>
 
 ## The Sprott L Attractor
  
@@ -1145,7 +1241,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Sprott L Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_L_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_L_Attractor.svg"/>
+</p>
 
 ## The Sprott M Attractor
  
@@ -1161,7 +1259,9 @@ $$
 \alpha=\frac{17}{10}.
 $$
 
-![The Sprott M Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_M_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_M_Attractor.svg"/>
+</p>
 
 ## The Sprott N Attractor
  
@@ -1177,7 +1277,9 @@ $$
 \alpha=2.
 $$
 
-![The Sprott N Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_N_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_N_Attractor.svg"/>
+</p>
 
 ## The Sprott O Attractor
  
@@ -1193,7 +1295,9 @@ $$
 \alpha=\frac{27}{10}.
 $$
 
-![The Sprott O Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_O_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_O_Attractor.svg"/>
+</p>
 
 ## The Sprott P Attractor
  
@@ -1209,7 +1313,9 @@ $$
 \alpha=\frac{27}{10}.
 $$
 
-![The Sprott P Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_P_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_P_Attractor.svg"/>
+</p>
 
 ## The Sprott Q Attractor
  
@@ -1232,7 +1338,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Sprott Q Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Q_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_Q_Attractor.svg"/>
+</p>
 
 ## The Sprott R Attractor
  
@@ -1255,7 +1363,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Sprott R Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_R_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_R_Attractor.svg"/>
+</p>
 
 ## The Sprott S Attractor
  
@@ -1271,7 +1381,9 @@ $$
 \alpha=4.
 $$
 
-![The Sprott S Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_S_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Sprott_S_Attractor.svg"/>
+</p>
 
 ## The TSUCS1 Attractor
  
@@ -1300,7 +1412,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The TSUCS1 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_TSUCS1_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_TSUCS1_Attractor.svg"/>
+</p>
 
 ## The TSUCS2 Attractor
  
@@ -1331,7 +1445,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The TSUCS2 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_TSUCS2_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_TSUCS2_Attractor.svg"/>
+</p>
 
 ## The Rikitake Attractor
  
@@ -1354,7 +1470,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Rikitake Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Rikitake_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Rikitake_Attractor.svg"/>
+</p>
 
 ## The Newton—Leipnik Attractor
  
@@ -1377,7 +1495,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Newton—Leipnik Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Newton_Leipnik_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Newton_Leipnik_Attractor.svg"/>
+</p>
 
 ## The Four—Wing 1 Attractor
  
@@ -1406,7 +1526,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Four—Wing 1 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Four_Wing_1_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Four_Wing_1_Attractor.svg"/>
+</p>
 
 ## The Four—Wing 2 Attractor
  
@@ -1437,7 +1559,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Four—Wing 2 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Four_Wing_2_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Four_Wing_2_Attractor.svg"/>
+</p>
 
 ## The Four—Wing 3 Attractor
  
@@ -1453,7 +1577,9 @@ $$
 \alpha = 1.
 $$
 
-![The Four—Wing 3 Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Four_Wing_3_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Four_Wing_3_Attractor.svg"/>
+</p>
 
 ## The Zhou Attractor
  
@@ -1478,7 +1604,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Zhou Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Zhou_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Zhou_Attractor.svg"/>
+</p>
 
 ## The Elhadj—Sprott Attractor
  
@@ -1503,7 +1631,9 @@ $$
 		\end{bmatrix}.
 $$
 
-![The Elhadj—Sprott Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Elhadj_Sprott_Attractor.png)
+<p align="center">
+  <img src="images_svg/The_Elhadj_Sprott_Attractor.svg"/>
+</p>
 
 ## The Sprott Strange Multifractal Attractor
 ### Reference
@@ -1517,5 +1647,6 @@ $$
 		\end{cases}
 $$
 
-![The Sprott Strange Multifractal Attractor](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors/blob/main/images_png/The_Sprott_Strange_Multifractal_Attractor.png)
-
+<p align="center">
+  <img src="images_svg/The_Sprott_Strange_Multifractal_Attractor.svg"/>
+</p>
