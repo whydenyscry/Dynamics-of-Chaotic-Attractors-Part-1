@@ -1,7 +1,7 @@
 # Dynamics of Nonlinear Attractors
 This is where I'll post attractors I've plotted using [explicit Runge-Kutta methods](https://github.com/whydenyscry/General-algorithm-of-the-explicit-Runge-Kutta-method). 
 The vast majority of attractors I've found on [Jürgen Mayer's personal website](http://www.3d-meier.de/), where you can find a list of sources where each attractor was found. 
-To attractors that I found not using this site, I will add the source.
+To the attractors I found not using this site, I will add a source and the title of these attractors will be up to my imagination..
 
 The plots are also available on Pinterest and Behance:
 
@@ -1636,7 +1636,7 @@ $$
 </p>
 
 ## The Sprott Strange Multifractal Attractor
-### Reference
+*Reference*
 [Sprott, J. (2020). Do We Need More Chaos Examples?. Chaos Theory and Applications, 2(2), 49-51.](https://dergipark.org.tr/en/pub/chaos/issue/54264/735400)
 
 $$ 
@@ -1649,4 +1649,37 @@ $$
 
 <p align="center">
   <img src="images_png/The_Sprott_Strange_Multifractal_Attractor.png"/>
+</p>
+
+## The Liu Attractor
+*Reference*
+[Liu, C. (2009). A novel chaotic attractor. Chaos, Solitons & Fractals, 39(3), 1037–1045.](https://doi.org/10.1016/j.chaos.2007.04.025)
+
+```math 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x+yz\right),	
+			\frac{\mathrm{d}y}{\mathrm{d}t} = \beta y - \varepsilon xz, 
+			\frac{\mathrm{d}z}{\mathrm{d}t}= \varsigma y-\delta z,
+		\end{cases}\]
+```
+
+```math
+\[\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\delta\\
+			\varepsilon
+		\end{bmatrix}=
+		\begin{bmatrix}
+			1\\
+			2.5\\
+			1\\
+			4\\
+			1
+		\end{bmatrix}.
+```
+
+<p align="center">
+  <img src="images_png/The_Liu_Attractor.png"/>
 </p>
