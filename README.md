@@ -1635,6 +1635,33 @@ $$
   <img src="images_png/The_Elhadj_Sprott_Attractor.png"/>
 </p>
 
+## The Sprott—Jafari Attractor
+**Reference:**\
+[Jafari, S., Sprott, J. C., & Nazarimehr, F. (2015). Recent new examples of hidden attractors. The European Physical Journal Special Topics, 224(8), 1469–1476.](https://doi.org/10.1140/epjst/e2015-02472-1)
+
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = y,	\\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = -x+yz, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}= z+\alpha x^2-y^2-\beta,
+		\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+			\alpha\\
+			\beta
+		\end{bmatrix}=
+		\begin{bmatrix}
+			8.888\\
+			4
+		\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Sprott_Jafari_Attractor.png"/>
+</p>
+
 ## The Sprott Strange Multifractal Attractor
 **Reference:**\
 [Sprott, J. (2020). Do We Need More Chaos Examples?. Chaos Theory and Applications, 2(2), 49-51.](https://dergipark.org.tr/en/pub/chaos/issue/54264/735400)
