@@ -1636,7 +1636,7 @@ $$
 </p>
 
 ## The Sprott Strange Multifractal Attractor
-*Reference*
+**Reference**
 [Sprott, J. (2020). Do We Need More Chaos Examples?. Chaos Theory and Applications, 2(2), 49-51.](https://dergipark.org.tr/en/pub/chaos/issue/54264/735400)
 
 $$ 
@@ -1652,7 +1652,7 @@ $$
 </p>
 
 ## The Liu Attractor
-*Reference*
+**Reference**
 [Liu, C. (2009). A novel chaotic attractor. Chaos, Solitons & Fractals, 39(3), 1037–1045.](https://doi.org/10.1016/j.chaos.2007.04.025)
 
 ```math 
