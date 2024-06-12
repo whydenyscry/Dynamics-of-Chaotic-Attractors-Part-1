@@ -1655,15 +1655,15 @@ $$
 **Reference:**\
 [Liu, C. (2009). A novel chaotic attractor. Chaos, Solitons & Fractals, 39(3), 1037–1045.](https://doi.org/10.1016/j.chaos.2007.04.025)
 
-```math 
+$$ 
 \begin{cases}
 			\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x+yz\right),	\\
 			\frac{\mathrm{d}y}{\mathrm{d}t} = \beta y - \varepsilon xz, \\
 			\frac{\mathrm{d}z}{\mathrm{d}t}= \varsigma y-\delta z,
 		\end{cases}
-```
+$$
 
-```math
+$$
 \begin{bmatrix}
 			\alpha\\
 			\beta\\
@@ -1678,7 +1678,7 @@ $$
 			4\\
 			1
 		\end{bmatrix}.
-```
+$$
 
 <p align="center">
   <img src="images_png/The_Liu_Attractor.png"/>
