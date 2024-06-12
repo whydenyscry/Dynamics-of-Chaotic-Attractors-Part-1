@@ -1660,7 +1660,7 @@ $$
 			\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x+yz\right),	
 			\frac{\mathrm{d}y}{\mathrm{d}t} = \beta y - \varepsilon xz, 
 			\frac{\mathrm{d}z}{\mathrm{d}t}= \varsigma y-\delta z,
-		\end{cases}\]
+		\end{cases}
 ```
 
 ```math
