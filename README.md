@@ -1710,3 +1710,32 @@ $$
 <p align="center">
   <img src="images_png/The_Liu_Attractor.png"/>
 </p>
+
+## The Sundarapandian—Pehlivan Attractor
+**Reference:**\
+[Sundarapandian, V., & Pehlivan, I. (2012). Analysis, control, synchronization, and circuit design of a novel chaotic system. Mathematical and Computer Modelling, 55(7-8), 1904–1915.](https://doi.org/10.1016/j.mcm.2011.11.048)
+
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha y -x,	\\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = -\beta x - z, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}= \varsigma z + xy^2-x,
+		\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma
+		\end{bmatrix}=
+		\begin{bmatrix}
+			1\\
+			0.46\\
+			0.46
+		\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Sundarapandian_Pehlivan_Attractor.png"/>
+</p>
