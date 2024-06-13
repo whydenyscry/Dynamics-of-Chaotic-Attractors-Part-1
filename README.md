@@ -1830,3 +1830,34 @@ $$
 <p align="center">
   <img src="images_png/The_Vaidyanathan_Hyperbolic_Sinusoidal_Attractor.png"/>
 </p>
+
+## The Vaidyanathan Hyperbolic Cosinusoidal Attractor
+**Reference:**\
+[Vaidyanathan, S. (2013). Analysis and Adaptive Synchronization of Two Novel Chaotic Systems with Hyperboli c Sinusoidal and Cosinusoidal Nonlinearity and Unknown Parameters. Journal of Engineering Science and Technology Review, 6(4), 53–65. ](https://doi.org/10.25103/jestr.064.07)
+
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x\right)+yz,	\\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = \beta x - \varsigma xz, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}=-\delta z + \cosh\left(xy\right),
+		\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\delta
+		\end{bmatrix}=
+		\begin{bmatrix}
+			10\\
+			98\\
+			2\\
+			10
+		\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Vaidyanathan_Hyperbolic_Cosinusoidal_Attractor.png"/>
+</p>
