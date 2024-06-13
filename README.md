@@ -1739,3 +1739,34 @@ $$
 <p align="center">
   <img src="images_png/The_Sundarapandian_Pehlivan_Attractor.png"/>
 </p>
+
+## The Sundarapandian Attractor
+**Reference:**\
+[Sundarapandian, V. (2013). Analysis and anti - synchronization of a novel chaotic system via active and adaptive controllers. Journal of Engineering Science and Technology Review, 6(4), 45–52.](https://doi.org/10.25103/jestr.064.06)
+
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y -x\right)+yz,	\\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = \beta x +\varsigma y -xz, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}= -\delta z +x^2,
+		\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma\\
+			\delta
+		\end{bmatrix}=
+		\begin{bmatrix}
+			21.5\\
+			20.6\\
+			11\\
+			6.4
+		\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Sundarapandian_Attractor.png"/>
+</p>
