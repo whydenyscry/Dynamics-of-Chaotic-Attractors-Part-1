@@ -1770,3 +1770,32 @@ $$
 <p align="center">
   <img src="images_png/The_Sundarapandian_Attractor.png"/>
 </p>
+
+## The Pehlivan Attractor
+**Reference:**\
+[Pehlivan, I. (2011). Four-scroll stellate new chaotic system. Optoelectronics and Advanced Materials - Rapid Communications - OAM-RC - INOE 2000.](https://oam-rc.inoe.ro/articles/four-scroll-stellate-new-chaotic-system/)
+
+$$ 
+\begin{cases}
+			\frac{\mathrm{d}x}{\mathrm{d}t} = -\alpha x + y + yz,	\\
+			\frac{\mathrm{d}y}{\mathrm{d}t} = x-\alpha y +\beta xz, \\
+			\frac{\mathrm{d}z}{\mathrm{d}t}= \varsigma z - \beta x y,
+		\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+			\alpha\\
+			\beta\\
+			\varsigma
+		\end{bmatrix}=
+		\begin{bmatrix}
+			4\\
+			0.5\\
+			0.6
+		\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Pehlivan_Attractor.png"/>
+</p>
