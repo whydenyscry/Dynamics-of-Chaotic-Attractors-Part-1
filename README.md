@@ -1888,3 +1888,36 @@ $$
 <p align="center">
   <img src="images_png/The_Neamah_Shukur_Attractor.png"/>
 </p>
+
+## The Li—Ou Attractor
+**Reference:**\
+[Li, X., & Ou, Q. (2010). Dynamical properties and simulation of a new Lorenz-like chaotic system. Nonlinear Dynamics, 65(3), 255–270.](https://doi.org/10.1007/s11071-010-9887-z)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x\right),	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = \varsigma y-xz, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t}=-\beta z + \delta x^2 +\varepsilon xy,
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta\\
+	\varsigma\\
+	\delta\\
+	\varepsilon
+\end{bmatrix}=
+\begin{bmatrix}
+	10\\
+	3\\
+	6\\
+	1\\
+	0
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Li_Ou_Attractor.png"/>
+</p>
