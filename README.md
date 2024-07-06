@@ -1861,3 +1861,30 @@ $$
 <p align="center">
   <img src="images_png/The_Vaidyanathan_Hyperbolic_Cosinusoidal_Attractor.png"/>
 </p>
+
+## The Neamah—Shukur Attractor
+**Reference:**\
+[Neamah, A. A., & Shukur, A. A. (2023). A novel conservative chaotic system involved in hyperbolic functions and its application to design an efficient colour image encryption scheme. Symmetry, 15(8), 1511.](https://doi.org/10.3390/sym15081511)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = y,	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} =-x-yz, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t}= \cosh y-1-\alpha\cos x^2-\beta\cos y,
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta
+\end{bmatrix}=
+\begin{bmatrix}
+	1\\
+	0.3
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Neamah_Shukur_Attractor.png"/>
+</p>
