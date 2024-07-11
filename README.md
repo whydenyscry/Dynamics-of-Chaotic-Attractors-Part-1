@@ -2049,3 +2049,30 @@ $$
 <p align="center">
   <img src="images_png/The_Sprott_Li_SL_4_Attractor.png"/>
 </p>
+
+## The Sprott—Li SL$`_5`$ Attractor
+**Reference:**\
+[Li, C., & Sprott, J. C. (2014). Chaotic flows with a single nonquadratic term. Physics Letters A, 378(3), 178–183.](https://doi.org/10.1016/j.physleta.2013.11.004)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = -x+\alpha z^2,	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = z^2 - \beta xz, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t}= xy - yz,
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta
+\end{bmatrix}=
+\begin{bmatrix}
+	1\\
+	2
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Sprott_Li_SL_5_Attractor.png"/>
+</p>
