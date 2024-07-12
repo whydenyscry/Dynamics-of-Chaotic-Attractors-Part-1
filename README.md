@@ -1,12 +1,15 @@
 # Dynamics of Nonlinear Attractors
-This is where I'll post attractors I've plotted using [explicit Runge-Kutta methods](https://github.com/whydenyscry/General-algorithm-of-the-explicit-Runge-Kutta-method). 
-The vast majority of attractors I've found on [Jürgen Mayer's personal website](http://www.3d-meier.de/), where you can find a list of sources where each attractor was found. 
-To the attractors I found not using this site, I will add a source and the title of these attractors will be up to my imagination..
+Gallery of more than 80 attractors plotted by me in MATLAB using [explicit Runge—Kutta methods](https://github.com/whydenyscry/General-algorithm-of-the-explicit-Runge-Kutta-method) (in particular, the 4th order Runge—Kutta method).
+
+A fair number of attractors I found on [Jürgen Mayer's personal website](http://www.3d-meier.de/), you can find references to primary sources there, so if some attractors lack references, those attractors were found there.
+For attractors that have been found already by me, I will leave a reference to the primary source.
 
 The plots are also available on Pinterest and Behance:
 
 <a href="https://www.pinterest.com/whydenyscry/when-math-and-art-came-face-to-face/" target="_blank"><img src="https://brandslogos.com/wp-content/uploads/images/large/pinterest-logo-black-and-white-4.png" style="width: 50px; height: 50px;"></a>
 <a href="https://www.behance.net/whydenyscry" target="_blank"><img src="https://www.iconsdb.com/icons/preview/white/behance-5-xxl.png" style="width: 50px; height: 50px;"></a>
+
+P.S. _I also plan to add 2D attractors as well as attractors in hyperdimensional spaces, but I'll probably create separate repositories because this one is exclusively 3D._
 
 ## The Lorenz Attractor
  
