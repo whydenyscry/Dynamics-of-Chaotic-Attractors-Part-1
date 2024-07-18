@@ -2325,3 +2325,30 @@ $$
 <p align="center">
   <img src="images_png/The_Kountchou_Louodop_Attractor.png"/>
 </p>
+
+## The Sambas—Vaidyanathan—Zhang Attractor
+**Reference:**\
+[Sambas, A., Vaidyanathan, S., Zhang, S., Zeng, Y., Mohamed, M. A., & Mamat, M. (2019). A New Double-Wing Chaotic System with Coexisting Attractors and Line Equilibrium: Bifurcation Analysis and Electronic Circuit Simulation. IEEE Access, 1–1.](https://doi.org/10.1109/access.2019.2933456)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} =yz,	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = x-y, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t}= \alpha\left|x\right|-\beta x^2,
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta
+\end{bmatrix}=
+\begin{bmatrix}
+	5\\
+	2
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Sambas_Vaidyanathan_Zhang_Attractor.png"/>
+</p>
