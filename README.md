@@ -2352,3 +2352,30 @@ $$
 <p align="center">
   <img src="images_png/The_Sambas_Vaidyanathan_Zhang_Attractor.png"/>
 </p>
+
+## The Kingni—Jafari—Simo Attractor
+**Reference:**\
+[Kingni, S. T., Jafari, S., Simo, H., & Woafo, P. (2014). Three-dimensional chaotic autonomous system with only one stable equilibrium: Analysis, circuit design, parameter estimation, control, synchronization and its fractional-order form. The European Physical Journal Plus, 129(5).](https://doi.org/10.1140/epjp/i2014-14076-4)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = -z,	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = -x-z, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t}= 3x-\alpha y + x^2-z^2-yz+\beta,
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta
+\end{bmatrix}=
+\begin{bmatrix}
+	1.3\\
+	1.01
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Kingni_Jafari_Simo_Attractor.png"/>
+</p>
