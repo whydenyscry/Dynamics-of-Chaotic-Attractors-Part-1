@@ -2261,3 +2261,38 @@ $$
 <p align="center">
   <img src="images_png/The_Sprott_Li_SL_12_Attractor.png"/>
 </p>
+
+## The Zhang—Liao Attractor
+**Reference:**\
+[Zhang, J., & Liao, X. (2017). Synchronization and chaos in coupled memristor-based FitzHugh-Nagumo circuits with memristor synapse. AEU - International Journal of Electronics and Communications, 75, 82–90.](https://doi.org/10.1016/j.aeue.2017.03.003)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = y - x\left(\beta+0.5\left(\alpha-\beta\right)\left(\text{sgn}\left(z+1\right)-\text{sgn}\left(z-1\right)\right)\right)+\frac{\varepsilon}{\vartheta}\cos\left(\vartheta t\right),	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = -\varsigma y-\varsigma x, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t}= \delta x,
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta\\
+	\varsigma\\
+	\delta\\
+	\varepsilon\\
+	\vartheta
+\end{bmatrix}=
+\begin{bmatrix}
+	-1.03\\
+	-0.5\\
+	0.98\\
+	1\\
+	0.15\\
+	0.75
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Zhang_Liao_Attractor.png"/>
+</p>
