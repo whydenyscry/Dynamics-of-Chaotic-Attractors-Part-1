@@ -2296,3 +2296,32 @@ $$
 <p align="center">
   <img src="images_png/The_Zhang_Liao_Attractor.png"/>
 </p>
+
+## The Kountchou—Louodop Attractor
+**Reference:**\
+[Kountchou, M., Louodop, P., Bowong, S., Fotsin, H., & Kurths, J. (2016). Optimal Synchronization of a Memristive Chaotic Circuit. International Journal of Bifurcation and Chaos, 26(06), 1650093.](https://doi.org/10.1142/s0218127416500930)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = \cos\left(\beta t\right)+\alpha y\left(1+z^2-z^4\right),	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = x-y\cos\left(\beta t\right), \\
+	\frac{\mathrm{d}z}{\mathrm{d}t}= -\varsigma y,
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta\\
+	\varsigma
+\end{bmatrix}=
+\begin{bmatrix}
+	2\\
+	2.5\\
+	6
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Kountchou_Louodop_Attractor.png"/>
+</p>
