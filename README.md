@@ -10,6 +10,7 @@ The plots are also available on Pinterest and Behance:
 <a href="https://www.behance.net/whydenyscry" target="_blank"><img src="https://www.iconsdb.com/icons/preview/white/behance-5-xxl.png" style="width: 50px; height: 50px;"></a>
 
 P.S. _I also plan to add 2D attractors as well as attractors in hyperdimensional spaces, but I'll probably create separate repositories because this one is exclusively 3D._
+
 P.P.S. _I give the title of attractors as the surnames of the authors of the paper where the attractor was found. For papers with a large number of authors, I take only the first 3 surnames._
 
 ## The Lorenz Attractor
