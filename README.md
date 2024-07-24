@@ -2381,3 +2381,23 @@ $$
 <p align="center">
   <img src="images_png/The_Kingni_Jafari_Simo_Attractor.png"/>
 </p>
+
+## The Nazarimehr—Sprott Attractor
+**Reference:**\
+[Nazarimehr, F., & Sprott, J. C. (2020). Investigating chaotic attractor of the simplest chaotic system with a line of equilibria. The European Physical Journal Special Topics, 229(6-7), 1289–1297.](https://doi.org/10.1140/epjst/e2020-900216-x)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha y,	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = xz, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t}= y-z-y^2,
+\end{cases}
+$$
+
+$$
+\alpha=289.
+$$
+
+<p align="center">
+  <img src="images_png/The_Nazarimehr_Sprott_Attractor.png"/>
+</p>
