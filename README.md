@@ -2401,3 +2401,36 @@ $$
 <p align="center">
   <img src="images_png/The_Nazarimehr_Sprott_Attractor.png"/>
 </p>
+
+## The Sun—Tian—Fu Attractor
+**Reference:**\
+[Sun, M., Tian, L., & Fu, Y. (2007). An energy resources demand–supply system and its dynamical analysis. Chaos, Solitons & Fractals, 32(1), 168–180.](https://doi.org/10.1016/j.chaos.2005.10.085)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha x\left(1 - \frac{x}{\varphi}\right) - \beta\left(y + z\right), \\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = -\varsigma y - \delta z + \xi x\left[\vartheta - \left(x - z\right)\right], \\
+	\frac{\mathrm{d}z}{\mathrm{d}t} = \eta z\left(\zeta x - \varepsilon\right),
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta\\
+	\varsigma\\
+	\delta\\
+	\xi \\
+	\eta\\
+	\zeta \\
+	\varepsilon\\
+	\varphi\\
+	\vartheta
+\end{bmatrix} =  \begin{bmatrix}
+0.09\\ 0.15\\ 0.06\\ 0.082\\ 0.07\\ 0.2\\ 0.5\\ 0.4\\ 1.8\\ 1
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Sun_Tian_Fu_Attractor.png"/>
+</p>
