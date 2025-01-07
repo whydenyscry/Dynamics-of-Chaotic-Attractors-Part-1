@@ -2444,8 +2444,9 @@ $$
   <img src="images_png/The_Sun_Tian_Fu_Attractor.png"/>
 </p>
 
-## The Herrera-Charles—Afolabi Attractor
+## The Wang—Sun—Cang Attractor
 **Reference:**\
+[Wang, Z., Sun, Y., & Cang, S. (2011). Acta Physica Polonica B, 42(2), 235.](https://doi.org/10.5506/aphyspolb.42.235)\
 [Herrera-Charles, R., Afolabi, O. M., Núñez-Pérez, J. C., & Ademola, V. A. (2024). Secure communication based on chaotic spherical 3D attractors. In Applications of Digital Image Processing XLVII (Vol. 13137, pp. 78-89).](https://doi.org/10.1117/12.3028430)
 
 $$ 
@@ -2473,7 +2474,7 @@ $$
 	1.2\\ 
 	13.45\\ 
 	1.6\\ 
-	1.25\\ 
+	0.161\\ 
 	0\\ 
 	2.76\\ 
 	0.6\\ 
@@ -2483,5 +2484,5 @@ $$
 $$
 
 <p align="center">
-  <img src="images_png/The_Herrera_Charles_Afolabi_Attractor.png"/>
+  <img src="images_png/The_Wang_Sun_Cang_Attractor.png"/>
 </p>
