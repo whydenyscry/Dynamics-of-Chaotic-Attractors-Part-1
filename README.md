@@ -2444,7 +2444,7 @@ $$
   <img src="images_png/The_Sun_Tian_Fu_Attractor.png"/>
 </p>
 
-## The Wang—Sun—Cang Attractor
+## The Wang—Sun—Cang Hyperbolic Tangent Attractor
 **Reference:**\
 [Wang, Z., Sun, Y., & Cang, S. (2011). Acta Physica Polonica B, 42(2), 235.](https://doi.org/10.5506/aphyspolb.42.235)\
 [Herrera-Charles, R., Afolabi, O. M., Núñez-Pérez, J. C., & Ademola, V. A. (2024). Secure communication based on chaotic spherical 3D attractors. In Applications of Digital Image Processing XLVII (Vol. 13137, pp. 78-89).](https://doi.org/10.1117/12.3028430)
@@ -2484,5 +2484,5 @@ $$
 $$
 
 <p align="center">
-  <img src="images_png/The_Wang_Sun_Cang_Attractor.png"/>
+  <img src="images_png/The_Wang_Sun_Cang_Hyperbolic_Tangent_Attractor.png"/>
 </p>
