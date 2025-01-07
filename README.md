@@ -2443,3 +2443,45 @@ $$
 <p align="center">
   <img src="images_png/The_Sun_Tian_Fu_Attractor.png"/>
 </p>
+
+## The Herrera-Charles—Afolabi Attractor
+**Reference:**\
+[Herrera-Charles, R., Afolabi, O. M., Núñez-Pérez, J. C., & Ademola, V. A. (2024). Secure communication based on chaotic spherical 3D attractors. In Applications of Digital Image Processing XLVII (Vol. 13137, pp. 78-89).](https://doi.org/10.1117/12.3028430)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha x - 	\beta y + \varsigma z + 2\tanh\left(100\sin y\right),	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = -\delta xz+\xi+	\eta x, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t}= \zeta xy + \varepsilon yz + \varphi z + \vartheta,
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta\\
+	\varsigma\\
+	\delta\\
+	\xi \\
+	\eta\\
+	\zeta \\
+	\varepsilon\\
+	\varphi\\
+	\vartheta
+\end{bmatrix} =  \begin{bmatrix}
+	-4.1\\ 
+	1.2\\ 
+	13.45\\ 
+	1.6\\ 
+	1.25\\ 
+	0\\ 
+	2.76\\ 
+	0.6\\ 
+	13.13\\ 
+	3.5031
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Herrera_Charles_Afolabi_Attractor.png"/>
+</p>
