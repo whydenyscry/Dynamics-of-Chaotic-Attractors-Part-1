@@ -2487,6 +2487,37 @@ $$
   <img src="images_png/The_Wang_Sun_Cang_Signum_Attractor.png"/>
 </p>
 
+## The Akgul—Hussain—Pehlivan Attractor
+**Reference:**\
+[Akgul, A., Hussain, S., & Pehlivan, I. (2016). A new three-dimensional chaotic system, its dynamical analysis and electronic circuit applications. Optik - International Journal for Light and Electron Optics, 127(18), 7062–7071.](https://doi.org/10.1016/j.ijleo.2016.05.010)\
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha \left(x-y\right),	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = -4\alpha y + xz+\varsigma x^3, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t}=\alpha\delta z + x^3y+\beta z^2,
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta\\
+	\varsigma\\
+	\delta\\
+\end{bmatrix}=
+\begin{bmatrix}
+	1.8\\
+	-0.07\\
+	0.12\\
+	1.5
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Akgul_Hussain_Pehlivan_Attractor.png"/>
+</p>
+
 ## The Wang—Sun—Cang Hyperbolic Tangent Attractor
 **Reference:**\
 [Wang, Z., Sun, Y., & Cang, S. (2011). Acta Physica Polonica B, 42(2), 235.](https://doi.org/10.5506/aphyspolb.42.235)\
