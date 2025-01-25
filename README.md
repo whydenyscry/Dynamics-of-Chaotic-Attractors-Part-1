@@ -2560,3 +2560,36 @@ $$
 <p align="center">
   <img src="images_png/The_Wang_Sun_Cang_Hyperbolic_Tangent_Attractor.png"/>
 </p>
+
+## The Huang—Yang Attractor (Chemical Chaotic Reactor)
+**Reference:**\
+[Huang, Y., & Yang, X.-S. (2005). Chaoticity of some chemical attractors: a computer assisted proof. Journal of Mathematical Chemistry, 38(1), 107–117.](https://doi.org/10.1007/s10910-005-4537-2)\
+[Vaidyanathan, S. (2015). A Novel Chemical Chaotic Reactor System and its Adaptive Control. International Journal of ChemTech Research, 8(11), 654–668.](https://www.researchgate.net/profile/Sundarapandian-Vaidyanathan/publication/289124616_Adaptive_Control_Design_for_the_Anti-synchronization_of_Novel_3-D_Chemical_Chaotic_Reactor_Systems/links/5689416c08ae051f9af750d2/Adaptive-Control-Design-for-the-Anti-synchronization-of-Novel-3-D-Chemical-Chaotic-Reactor-Systems.pdf)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha x-\delta x^2-xy-xz,	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = xy-\varsigma y, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t}=\beta z-xz-\varepsilon z,
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta\\
+	\varsigma\\
+	\delta\\
+	\varepsilon
+\end{bmatrix} = \begin{bmatrix}
+	30\\
+	16.5\\
+	10\\
+	0.5\\
+	0.5
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Huang_Yang_Attractor.png"/>
+</p>
