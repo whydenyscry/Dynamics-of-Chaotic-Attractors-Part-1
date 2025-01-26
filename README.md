@@ -2489,7 +2489,7 @@ $$
 
 ## The Akgul—Hussain—Pehlivan Attractor
 **Reference:**\
-[Akgul, A., Hussain, S., & Pehlivan, I. (2016). A new three-dimensional chaotic system, its dynamical analysis and electronic circuit applications. Optik - International Journal for Light and Electron Optics, 127(18), 7062–7071.](https://doi.org/10.1016/j.ijleo.2016.05.010)\
+[Akgul, A., Hussain, S., & Pehlivan, I. (2016). A new three-dimensional chaotic system, its dynamical analysis and electronic circuit applications. Optik - International Journal for Light and Electron Optics, 127(18), 7062–7071.](https://doi.org/10.1016/j.ijleo.2016.05.010)
 
 $$ 
 \begin{cases}
@@ -2596,8 +2596,7 @@ $$
 
 ## The Wang—Hu—Tian Attractor
 **Reference:**\
-[Wang, Q., Hu, C., Tian, Z., Wu, X., Sang, H., & Cui, Z. (2023). A 3D memristor-based chaotic system with transition behaviors of coexisting attractors between equilibrium points. Results in Physics, 56, 107201.](https://doi.org/10.1016/j.rinp.2023.107201)\
-
+[Wang, Q., Hu, C., Tian, Z., Wu, X., Sang, H., & Cui, Z. (2023). A 3D memristor-based chaotic system with transition behaviors of coexisting attractors between equilibrium points. Results in Physics, 56, 107201.](https://doi.org/10.1016/j.rinp.2023.107201)
 $$ 
 \begin{cases}
 	\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha y +\beta\left(0.1 + 0.5y^2\right)z,	\\
