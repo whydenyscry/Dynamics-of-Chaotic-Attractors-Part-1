@@ -2593,3 +2593,31 @@ $$
 <p align="center">
   <img src="images_png/The_Huang_Yang_Attractor.png"/>
 </p>
+
+## The Wang—Hu—Tian Attractor
+**Reference:**\
+[Wang, Q., Hu, C., Tian, Z., Wu, X., Sang, H., & Cui, Z. (2023). A 3D memristor-based chaotic system with transition behaviors of coexisting attractors between equilibrium points. Results in Physics, 56, 107201.](https://doi.org/10.1016/j.rinp.2023.107201)\
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha y +\beta\left(0.1 + 0.5y^2\right)z,	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = z, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t}=x-\varsigma y -z - 2.682\cdot10^{-4}\sinh\left(4.0485x\right),
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta\\
+	\varsigma
+\end{bmatrix} = \begin{bmatrix}
+	2\\
+	2.5\\
+	2
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Wang_Hu_Tian_Attractor.png"/>
+</p>
