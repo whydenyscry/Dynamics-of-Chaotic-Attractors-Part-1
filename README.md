@@ -2621,3 +2621,23 @@ $$
 <p align="center">
   <img src="images_png/The_Wang_Hu_Tian_Attractor.png"/>
 </p>
+
+## The Qiu—Xu—Jiang Attractor
+**Reference:**\
+[Qiu, H., Xu, X., Jiang, Z., Sun, K., & Cao, C. (2023). Dynamical behaviors, circuit design, and synchronization of a novel symmetric chaotic system with coexisting attractors. Scientific Reports, 13(1).](https://doi.org/10.1038/s41598-023-28509-z)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = y-2xz,	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = -x+0.5\left(1-x^2\right)y-0.5yz, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t}=0.1xy+\alpha x^2-0.8,
+\end{cases}
+$$
+
+$$
+\alpha = 0.21.
+$$
+
+<p align="center">
+  <img src="images_png/The_Qiu_Xu_Jiang_Attractor.png"/>
+</p>
