@@ -2641,3 +2641,29 @@ $$
 <p align="center">
   <img src="images_png/The_Qiu_Xu_Jiang_Attractor.png"/>
 </p>
+
+## The Vaidyanathan—Volos Attractor
+**Reference:**\
+[Vaidyanathan, S., & Volos, C. (2015). Analysis and adaptive control of a novel 3-D conservative no-equilibrium chaotic system. Archives of Control Sciences, 25(3), 333–353.](https://doi.org/10.1515/acsc-2015-0022)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha  y + xz,	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = -\beta x + yz, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t} = 1 - x ^ 2 - y ^2,
+\end{cases
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta
+\end{bmatrix} = \begin{bmatrix}
+	0.05\\
+	1
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Vaidyanathan_Volos_Attractor.png"/>
+</p>
