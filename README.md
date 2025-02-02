@@ -2650,8 +2650,8 @@ $$
 \begin{cases}
 	\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha  y + xz,	\\
 	\frac{\mathrm{d}y}{\mathrm{d}t} = -\beta x + yz, \\
-	\frac{\mathrm{d}z}{\mathrm{d}t} = 1 - x ^ 2 - y ^2,
-\end{cases
+	\frac{\mathrm{d}z}{\mathrm{d}t} = 1 - x^2 - y^2,
+\end{cases}
 $$
 
 $$
