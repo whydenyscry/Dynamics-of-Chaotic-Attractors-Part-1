@@ -2670,29 +2670,3 @@ $$
 <p align="center">
   <img src="images_png/The_Vaidyanathan_Volos_Attractor.png"/>
 </p>
-
-## The Xu—Wang Attractor
-**Reference:**\
-[Xu, Y., & Wang, Y. (2014). A new chaotic system without linear term and its impulsive synchronization. Optik - International Journal for Light and Electron Optics, 125(11), 2526–2530.](https://doi.org/10.1016/j.ijleo.2013.10.123)
-
-$$ 
-\begin{cases}
-	\frac{\mathrm{d}x}{\mathrm{d}t} = \ln\left(\alpha+\mathrm{e}^{y-x}\right)	\\
-	\frac{\mathrm{d}y}{\mathrm{d}t} = xz, \\
-	\frac{\mathrm{d}z}{\mathrm{d}t} = \beta -xy,
-\end{cases}
-$$
-
-$$
-\begin{bmatrix}
-	\alpha\\
-	\beta
-\end{bmatrix} = \begin{bmatrix}
-	0.1\\
-	0.25
-\end{bmatrix}.
-$$
-
-<p align="center">
-  <img src="images_png/The_Xu_Wang_Attractor.png"/>
-</p>
