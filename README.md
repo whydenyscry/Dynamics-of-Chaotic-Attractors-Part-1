@@ -14,7 +14,7 @@ P.S. _I also plan to add 2D attractors as well as attractors in hyperdimensional
 
 P.P.S. _I give the title of attractors as the surnames of the authors of the paper where the attractor was found. For papers with a large number of authors, I take only the first 3 surnames._
 
-<font color="red">NOTE: This repository has reached its limit in displaying math formulas, so the continuation of the gallery can be seen in the new repository [Dynamics of Chaotic Attractors](https://github.com/whydenyscry/Dynamics-of-Chaotic-Attractors)</font>
+**NOTE:** This repository has reached its limit in displaying math formulas, so the continuation of the gallery can be seen in the new repository [Dynamics of Chaotic Attractors](https://github.com/whydenyscry/Dynamics-of-Chaotic-Attractors).
 
 ## The Lorenz Attractor
  
