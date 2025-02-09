@@ -1,11 +1,9 @@
-# Dynamics of Nonlinear Attractors
+# Dynamics of Chaotic 3D Attractors: Part 1
 
-Gallery of more than 100 three-dimensional attractors plotted by me in MATLAB using [explicit Runge—Kutta methods](https://github.com/whydenyscry/General-algorithm-of-the-explicit-Runge-Kutta-method) (in particular, the 4th order Runge—Kutta method).
+Gallery of more than 100 three-dimensional attractors plotted by me in MATLAB based on [General Algorithm of The Explicit Runge—Kutta Method](https://github.com/whydenyscry/General-algorithm-of-the-explicit-Runge-Kutta-method).
 
 A fair number of attractors I found on [Jürgen Mayer's personal website](http://www.3d-meier.de/), you can find references to primary sources there, so if some attractors lack references, those attractors were found there.
 For attractors that have been found already by me, I will leave a reference to the primary source. 
-
-A gallery of high-dimensional hyperchaotic attractors will be in the [Dynamics of Hyperchaotic Attractors](https://github.com/whydenyscry/Dynamics-of-Hyperchaotic-Attractors) repository.
 
 The plots are also available on Pinterest and Behance:
 
@@ -14,7 +12,10 @@ The plots are also available on Pinterest and Behance:
 
 P.S. _I give the title of attractors as the surnames of the authors of the paper where the attractor was found. For papers with a large number of authors, I take only the first 3 surnames._
 
-**NOTE:** This repository has reached its limit in displaying math formulas, so the continuation of the gallery can be seen in the new repository [Dynamics of Chaotic Attractors](https://github.com/whydenyscry/Dynamics-of-Chaotic-Attractors).
+
+## Relevant Repositories:
+- [Dynamics of Chaotic 3D Attractors: Part 2](https://github.com/whydenyscry/Dynamics-of-Chaotic-Attractors-Part-2)
+- [Dynamics Of Hyperchaotic High-Dimensional Attractors](https://github.com/whydenyscry/Dynamics-of-Hyperchaotic-Attractors)
 
 ## The Lorenz Attractor
  
