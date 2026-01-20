@@ -21,9 +21,9 @@ P.S. _I give the title of attractors as the surnames of the authors of the paper
  
  $$ 
 \begin{cases}
-    \dfrac{\mathrm{d}x}{\mathrm{d}t} = \sigma(y - x), \\
-    \dfrac{\mathrm{d}y}{\mathrm{d}t} = x(\rho - z) - y, \\
-    \dfrac{\mathrm{d}z}{\mathrm{d}t} = xy - \beta z,
+    \dot{x} = \sigma(y - x), \\
+    \dot{y} = x(\rho - z) - y, \\
+    \dot{z} = xy - \beta z,
 \end{cases}
  $$
  
@@ -47,9 +47,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=-\alpha x+y^2-z^2+\alpha\varsigma, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=x\left(y-\beta z\right)+\delta, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=-z+x\left(\beta y+z\right),
+			\dot{x}=-\alpha x+y^2-z^2+\alpha\varsigma, \\
+			\dot{y}=x\left(y-\beta z\right)+\delta, \\
+			\dot{z}=-z+x\left(\beta y+z\right),
 		\end{cases}
 $$
  
@@ -76,9 +76,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=-\alpha x+y^2-z^2+\alpha\varsigma, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=x\left(y-\beta z\right)+\delta, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=-z+x\left(\beta y+z\right),
+			\dot{x}=-\alpha x+y^2-z^2+\alpha\varsigma, \\
+			\dot{y}=x\left(y-\beta z\right)+\delta, \\
+			\dot{z}=-z+x\left(\beta y+z\right),
 		\end{cases}
 $$
  
@@ -105,9 +105,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=x-xy+\varsigma x^2-\alpha z x^2, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=-y+xy, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=-\beta z +\alpha z x^2,
+			\dot{x}=x-xy+\varsigma x^2-\alpha z x^2, \\
+			\dot{y}=-y+xy, \\
+			\dot{z}=-\beta z +\alpha z x^2,
 \end{cases}
 $$
  
@@ -132,9 +132,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = (z - \beta)x - \delta y, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = \delta x + (z - \beta)y, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = \varsigma + \alpha z - \dfrac{z^3}{3} - \left(x^2 + y^2\right)\left(1 + \varepsilon z\right) + \xi zx^3,
+			\dot{x} = (z - \beta)x - \delta y, \\
+			\dot{y} = \delta x + (z - \beta)y, \\
+			\dot{z} = \varsigma + \alpha z - \dfrac{z^3}{3} - \left(x^2 + y^2\right)\left(1 + \varepsilon z\right) + \xi zx^3,
 \end{cases}
 $$
  
@@ -164,9 +164,9 @@ $$
 ## The Tamari Attractor
  
 $$ \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} =\left(x-\alpha y\right)\cos z-\beta y \sin z, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = \left(x+\gamma y\right)\sin z +\delta y\cos z, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = \varepsilon +\kappa z+\xi\arctan\left(\dfrac{1-\varsigma}{1-\omega}xy\right),
+			\dot{x} =\left(x-\alpha y\right)\cos z-\beta y \sin z, \\
+			\dot{y} = \left(x+\gamma y\right)\sin z +\delta y\cos z, \\
+			\dot{z} = \varepsilon +\kappa z+\xi\arctan\left(\dfrac{1-\varsigma}{1-\omega}xy\right),
 	\end{cases} 
 $$
 
@@ -203,9 +203,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = -\alpha x-4y-4z-y^2, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} =-\alpha y-4z-4x-z^2, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = -\alpha z-4x-4y-x^2,
+			\dot{x} = -\alpha x-4y-4z-y^2, \\
+			\dot{y} =-\alpha y-4z-4x-z^2, \\
+			\dot{z} = -\alpha z-4x-4y-x^2,
 \end{cases} 
 $$
 
@@ -221,9 +221,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} =-\beta x+\sin y,\\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = -\beta y + \sin z, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = -\beta z + \sin x,
+			\dot{x} =-\beta x+\sin y,\\
+			\dot{y} = -\beta y + \sin z, \\
+			\dot{z} = -\beta z + \sin x,
 \end{cases}
 $$
 
@@ -239,9 +239,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(x-y\right), \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = -4\alpha y +xz+\varsigma x^3, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = -\delta\alpha z +xy+\beta z^2,
+			\dot{x} = \alpha\left(x-y\right), \\
+			\dot{y} = -4\alpha y +xz+\varsigma x^3, \\
+			\dot{z} = -\delta\alpha z +xy+\beta z^2,
 \end{cases}
 $$
 
@@ -268,9 +268,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = -\alpha x^3 +\beta x^2+y -z+\iota, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} =-\delta x^2-y+\varsigma, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = \rho\left(\xi\left(x-\chi\right)-z\right),
+			\dot{x} = -\alpha x^3 +\beta x^2+y -z+\iota, \\
+			\dot{y} =-\delta x^2-y+\varsigma, \\
+			\dot{z} = \rho\left(\xi\left(x-\chi\right)-z\right),
 		\end{cases}
 $$
 
@@ -305,9 +305,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} =-\kappa x+\alpha y -yz, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = x, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = -z+y^2,
+			\dot{x} =-\kappa x+\alpha y -yz, \\
+			\dot{y} = x, \\
+			\dot{z} = -z+y^2,
 		\end{cases}
 $$
 
@@ -330,9 +330,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} =y, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = z, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = -\alpha x -\beta y -z+\varsigma x^3,
+			\dot{x} =y, \\
+			\dot{y} = z, \\
+			\dot{z} = -\alpha x -\beta y -z+\varsigma x^3,
 		\end{cases}
 $$
 
@@ -357,9 +357,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = -x+\alpha f(x)-\delta f(y)- \delta f(z), \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = -y-\delta f(x)+\beta f(y)-\varsigma f(z), \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = -z -\delta f(x)+\varsigma f(y) + f(z),
+			\dot{x} = -x+\alpha f(x)-\delta f(y)- \delta f(z), \\
+			\dot{y} = -y-\delta f(x)+\beta f(y)-\varsigma f(z), \\
+			\dot{z} = -z -\delta f(x)+\varsigma f(y) + f(z),
 		\end{cases}
 $$
 
@@ -390,9 +390,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} =y-\rho x+\sigma yz,\\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = \xi y-xz+z, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = \varsigma xy-\varepsilon z,
+			\dot{x} =y-\rho x+\sigma yz,\\
+			\dot{y} = \xi y-xz+z, \\
+			\dot{z} = \varsigma xy-\varepsilon z,
 		\end{cases}
 $$
 
@@ -421,9 +421,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} =-y-z,\\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = x+\alpha y, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = \beta+z\left(x-\varsigma\right),
+			\dot{x} =-y-z,\\
+			\dot{y} = x+\alpha y, \\
+			\dot{z} = \beta+z\left(x-\varsigma\right),
 		\end{cases}
 $$
 
@@ -447,9 +447,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = \left(\dfrac{1}{\beta}-\alpha\right)x+z+xy, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = -\beta y-x^2, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = -x -\varsigma z,
+			\dot{x} = \left(\dfrac{1}{\beta}-\alpha\right)x+z+xy, \\
+			\dot{y} = -\beta y-x^2, \\
+			\dot{z} = -x -\varsigma z,
 		\end{cases}
 $$
 
@@ -473,9 +473,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=\alpha\left(y-x\right), \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=-xz+\varsigma y, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}= xy-\beta z,
+			\dot{x}=\alpha\left(y-x\right), \\
+			\dot{y}=-xz+\varsigma y, \\
+			\dot{z}= xy-\beta z,
 		\end{cases}
 $$
 
@@ -499,9 +499,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = -y^2-z^2-\alpha x+\alpha\varsigma, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} =xy -\beta xz-y+\delta, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} =\beta xy+xz-z,
+			\dot{x} = -y^2-z^2-\alpha x+\alpha\varsigma, \\
+			\dot{y} =xy -\beta xz-y+\delta, \\
+			\dot{z} =\beta xy+xz-z,
 		\end{cases}
 $$
 
@@ -528,9 +528,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(x-y\right)-yz, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = -\beta y+xz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} =-\varsigma z+\delta x+xy,
+			\dot{x} = \alpha\left(x-y\right)-yz, \\
+			\dot{y} = -\beta y+xz, \\
+			\dot{z} =-\varsigma z+\delta x+xy,
 		\end{cases}
 $$
 
@@ -557,9 +557,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} =y-x, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = -z\tanh x, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = -\alpha+xy+|y|,
+			\dot{x} =y-x, \\
+			\dot{y} = -z\tanh x, \\
+			\dot{z} = -\alpha+xy+|y|,
 		\end{cases}
 $$
 
@@ -575,9 +575,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = z (\lambda x - \mu y )+ (2-z) \left[ \alpha x  \left( 1-\dfrac{x^2+y^2}{\rho^2} \right) -\beta y \right], \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = z ( \mu x +\lambda y) + (2-z) \left[ \alpha y \left(  1- \dfrac{x^2+y^2}{\rho^2} \right)+\beta x \right], \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}= \dfrac{1}{\varepsilon} \left[z ( (2-z) \left( \varphi (z-2)^2+\psi \right) - \delta x)\left(z+\xi \left( x^2+y^2 \right)-\eta \right)-\varepsilon \varsigma(z-1) \right],
+			\dot{x} = z (\lambda x - \mu y )+ (2-z) \left[ \alpha x  \left( 1-\dfrac{x^2+y^2}{\rho^2} \right) -\beta y \right], \\
+			\dot{y} = z ( \mu x +\lambda y) + (2-z) \left[ \alpha y \left(  1- \dfrac{x^2+y^2}{\rho^2} \right)+\beta x \right], \\
+			\dot{z}= \dfrac{1}{\varepsilon} \left[z ( (2-z) \left( \varphi (z-2)^2+\psi \right) - \delta x)\left(z+\xi \left( x^2+y^2 \right)-\eta \right)-\varepsilon \varsigma(z-1) \right],
 		\end{cases}
 $$
 
@@ -620,9 +620,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=y, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=\left(1-z\right)x-\alpha y, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=x^2-\beta z,
+			\dot{x}=y, \\
+			\dot{y}=\left(1-z\right)x-\alpha y, \\
+			\dot{z}=x^2-\beta z,
 		\end{cases}
 $$
 
@@ -645,9 +645,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=y, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=-x+yz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=\alpha-y^2,
+			\dot{x}=y, \\
+			\dot{y}=-x+yz, \\
+			\dot{z}=\alpha-y^2,
 		\end{cases}
 $$
 
@@ -663,9 +663,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} =\alpha x +\varsigma yz,\\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = \beta x +\delta y -xz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = \varepsilon z +\xi xy,
+			\dot{x} =\alpha x +\varsigma yz,\\
+			\dot{y} = \beta x +\delta y -xz, \\
+			\dot{z} = \varepsilon z +\xi xy,
 		\end{cases}
 $$
 
@@ -695,9 +695,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=\alpha\left(y-x\right)+yz^2, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=\beta\left(x+y\right)-xz^2, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=-\varsigma z+\varepsilon y +xyz,
+			\dot{x}=\alpha\left(y-x\right)+yz^2, \\
+			\dot{y}=\beta\left(x+y\right)-xz^2, \\
+			\dot{z}=-\varsigma z+\varepsilon y +xyz,
 		\end{cases}
 $$
 
@@ -724,9 +724,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=- \dfrac{\alpha\beta}{\alpha+\beta}x -yz+\varsigma, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=\alpha y +xz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=\beta z+xy,
+			\dot{x}=- \dfrac{\alpha\beta}{\alpha+\beta}x -yz+\varsigma, \\
+			\dot{y}=\alpha y +xz, \\
+			\dot{z}=\beta z+xy,
 		\end{cases}
 $$
 
@@ -751,9 +751,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=-\alpha\left(x+y\right), \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=-y-\alpha xz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=\alpha xy +\beta,
+			\dot{x}=-\alpha\left(x+y\right), \\
+			\dot{y}=-y-\alpha xz, \\
+			\dot{z}=\alpha xy +\beta,
 		\end{cases}
 $$
 
@@ -776,9 +776,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha x+\beta y +yz, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} =\varsigma y-xz+\delta yz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} =\varepsilon z-xy,
+			\dot{x} = \alpha x+\beta y +yz, \\
+			\dot{y} =\varsigma y-xz+\delta yz, \\
+			\dot{z} =\varepsilon z-xy,
 		\end{cases}
 $$
 
@@ -807,9 +807,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = y, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = z, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = -\varsigma x-\beta y-\alpha z+x^2,
+			\dot{x} = y, \\
+			\dot{y} = z, \\
+			\dot{z} = -\varsigma x-\beta y-\alpha z+x^2,
 		\end{cases}
 $$
 
@@ -834,9 +834,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x\right), \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} =\beta x-\varsigma xz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = \exp{(xy)}-\delta z,
+			\dot{x} = \alpha\left(y-x\right), \\
+			\dot{y} =\beta x-\varsigma xz, \\
+			\dot{z} = \exp{(xy)}-\delta z,
 		\end{cases}
 $$
 
@@ -863,9 +863,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = -x+y+yz, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} =-x-y+\alpha xz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = z-\beta xy,
+			\dot{x} = -x+y+yz, \\
+			\dot{y} =-x-y+\alpha xz, \\
+			\dot{z} = z-\beta xy,
 		\end{cases}
 $$
 
@@ -888,9 +888,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=\alpha\left(y-x-\left(\varsigma x + \dfrac{1}{2}\left(\delta-\varsigma\right)\left(\left|x+1\right|-\left|x-1\right|\right)\right)\right), \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=x-y+z, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=-\beta y,
+			\dot{x}=\alpha\left(y-x-\left(\varsigma x + \dfrac{1}{2}\left(\delta-\varsigma\right)\left(\left|x+1\right|-\left|x-1\right|\right)\right)\right), \\
+			\dot{y}=x-y+z, \\
+			\dot{z}=-\beta y,
 		\end{cases}
 $$
 
@@ -917,9 +917,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x^3-\varsigma x\right), \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = x-y+z, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = -\beta y,
+			\dot{x} = \alpha\left(y-x^3-\varsigma x\right), \\
+			\dot{y} = x-y+z, \\
+			\dot{z} = -\beta y,
 		\end{cases}
 $$
 
@@ -944,9 +944,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} =\alpha\left(y+\delta\sin{\left(\dfrac{\pi x}{2\varsigma}+\varepsilon\right)}\right), \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = x-y+z, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = -\beta y,
+			\dot{x} =\alpha\left(y+\delta\sin{\left(\dfrac{\pi x}{2\varsigma}+\varepsilon\right)}\right), \\
+			\dot{y} = x-y+z, \\
+			\dot{z} = -\beta y,
 		\end{cases}
 $$
 
@@ -975,9 +975,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=y, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=-\dfrac{x}{3}+\dfrac{y}{2}-\dfrac{yz^2}{2}, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=y-\alpha z-yz,
+			\dot{x}=y, \\
+			\dot{y}=-\dfrac{x}{3}+\dfrac{y}{2}-\dfrac{yz^2}{2}, \\
+			\dot{z}=y-\alpha z-yz,
 		\end{cases}
 $$
 
@@ -993,9 +993,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=y, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=z, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=-z-\left(\beta-\alpha+\alpha x^2\right)y-\beta x,
+			\dot{x}=y, \\
+			\dot{y}=z, \\
+			\dot{z}=-z-\left(\beta-\alpha+\alpha x^2\right)y-\beta x,
 		\end{cases}
 $$
 
@@ -1018,9 +1018,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=y, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=z, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=\alpha x + \beta y + \varsigma z + \delta x^3,
+			\dot{x}=y, \\
+			\dot{y}=z, \\
+			\dot{z}=\alpha x + \beta y + \varsigma z + \delta x^3,
 		\end{cases}
 $$
 
@@ -1047,9 +1047,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=y, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=-x+yz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=1-y^2
+			\dot{x}=y, \\
+			\dot{y}=-x+yz, \\
+			\dot{z}=1-y^2
 		\end{cases}
 $$
 
@@ -1061,9 +1061,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=yz, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=x-y, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=1-xy
+			\dot{x}=yz, \\
+			\dot{y}=x-y, \\
+			\dot{z}=1-xy
 		\end{cases}
 $$
 
@@ -1075,9 +1075,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=yz, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=x-y, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=1-x^2
+			\dot{x}=yz, \\
+			\dot{y}=x-y, \\
+			\dot{z}=1-x^2
 		\end{cases}
 $$
 
@@ -1089,9 +1089,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=-y, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=x+z, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=xz + \alpha y^2,
+			\dot{x}=-y, \\
+			\dot{y}=x+z, \\
+			\dot{z}=xz + \alpha y^2,
 		\end{cases}
 $$
 
@@ -1107,9 +1107,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=yz, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=x^2-y, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=1-\alpha x,
+			\dot{x}=yz, \\
+			\dot{y}=x^2-y, \\
+			\dot{z}=1-\alpha x,
 		\end{cases}
 $$
 
@@ -1125,9 +1125,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=y+z, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=-x+\alpha y, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=x^2-z,
+			\dot{x}=y+z, \\
+			\dot{y}=-x+\alpha y, \\
+			\dot{z}=x^2-z,
 		\end{cases}
 $$
 
@@ -1143,9 +1143,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=\alpha x + z, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=xz-y, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=-x+y,
+			\dot{x}=\alpha x + z, \\
+			\dot{y}=xz-y, \\
+			\dot{z}=-x+y,
 		\end{cases}
 $$
 
@@ -1161,9 +1161,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=-y+z^2, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=x+\alpha y, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=x-z,
+			\dot{x}=-y+z^2, \\
+			\dot{y}=x+\alpha y, \\
+			\dot{z}=x-z,
 		\end{cases}
 $$
 
@@ -1179,9 +1179,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=\alpha y, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=x+z, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=x+y^2-z,
+			\dot{x}=\alpha y, \\
+			\dot{y}=x+z, \\
+			\dot{z}=x+y^2-z,
 		\end{cases}
 $$
 
@@ -1197,9 +1197,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=\alpha z, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=-\alpha y +z, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}= -x+y+y^2,
+			\dot{x}=\alpha z, \\
+			\dot{y}=-\alpha y +z, \\
+			\dot{z}= -x+y+y^2,
 		\end{cases}
 $$
 
@@ -1215,9 +1215,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=xy-z, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=x-y, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=x+\alpha z,
+			\dot{x}=xy-z, \\
+			\dot{y}=x-y, \\
+			\dot{z}=x+\alpha z,
 		\end{cases}
 $$
 
@@ -1233,9 +1233,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=y+\alpha z, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=\beta x^2 - y, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=1-x,
+			\dot{x}=y+\alpha z, \\
+			\dot{y}=\beta x^2 - y, \\
+			\dot{z}=1-x,
 		\end{cases}
 $$
 
@@ -1258,9 +1258,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=-z, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=-x^2-y, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=\alpha + \alpha x+y,
+			\dot{x}=-z, \\
+			\dot{y}=-x^2-y, \\
+			\dot{z}=\alpha + \alpha x+y,
 		\end{cases}
 $$
 
@@ -1276,9 +1276,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=-\alpha y, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=x+z^2, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=1+y-\alpha z,
+			\dot{x}=-\alpha y, \\
+			\dot{y}=x+z^2, \\
+			\dot{z}=1+y-\alpha z,
 		\end{cases}
 $$
 
@@ -1294,9 +1294,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=y, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=x-z, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=x+xz+\alpha y,
+			\dot{x}=y, \\
+			\dot{y}=x-z, \\
+			\dot{z}=x+xz+\alpha y,
 		\end{cases}
 $$
 
@@ -1312,9 +1312,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=\alpha y + z, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=-x+y^2, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=x+y,
+			\dot{x}=\alpha y + z, \\
+			\dot{y}=-x+y^2, \\
+			\dot{z}=x+y,
 		\end{cases}
 $$
 
@@ -1330,9 +1330,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=-z, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=x - y, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=\alpha x +y^2+\beta z,
+			\dot{x}=-z, \\
+			\dot{y}=x - y, \\
+			\dot{z}=\alpha x +y^2+\beta z,
 		\end{cases}
 $$
 
@@ -1355,9 +1355,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=\alpha -y, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=\beta +z, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=xy-z,
+			\dot{x}=\alpha -y, \\
+			\dot{y}=\beta +z, \\
+			\dot{z}=xy-z,
 		\end{cases}
 $$
 
@@ -1380,9 +1380,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=-x+\alpha y, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=x +z^2, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=1+x,
+			\dot{x}=-x+\alpha y, \\
+			\dot{y}=x +z^2, \\
+			\dot{z}=1+x,
 		\end{cases}
 $$
 
@@ -1398,9 +1398,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x\right)+\varsigma xz, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = \varepsilon y-xz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = \beta z+xy-\delta x^2,
+			\dot{x} = \alpha\left(y-x\right)+\varsigma xz, \\
+			\dot{y} = \varepsilon y-xz, \\
+			\dot{z} = \beta z+xy-\delta x^2,
 		\end{cases}
 $$
 
@@ -1429,9 +1429,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x\right)+\delta xz, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = \varsigma x-xz+\xi y, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = \beta z+xy-\varepsilon x^2,
+			\dot{x} = \alpha\left(y-x\right)+\delta xz, \\
+			\dot{y} = \varsigma x-xz+\xi y, \\
+			\dot{z} = \beta z+xy-\varepsilon x^2,
 		\end{cases}
 $$
 
@@ -1462,9 +1462,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=-\beta x + zy, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=-\beta y + \left(z-\alpha\right)x, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=1-xy,
+			\dot{x}=-\beta x + zy, \\
+			\dot{y}=-\beta y + \left(z-\alpha\right)x, \\
+			\dot{z}=1-xy,
 		\end{cases}
 $$
 
@@ -1487,9 +1487,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=-\alpha x+y+10yz, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=-x-0.4y+5xz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=\beta z-5xy,
+			\dot{x}=-\alpha x+y+10yz, \\
+			\dot{y}=-x-0.4y+5xz, \\
+			\dot{z}=\beta z-5xy,
 		\end{cases}
 $$
 
@@ -1512,9 +1512,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha x -\beta yz, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = -\varsigma y +xz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t} = \varepsilon x -\delta z +xy,
+			\dot{x} = \alpha x -\beta yz, \\
+			\dot{y} = -\varsigma y +xz, \\
+			\dot{z} = \varepsilon x -\delta z +xy,
 		\end{cases}
 $$
 
@@ -1543,9 +1543,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha x+\beta y+\varsigma yz \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = \delta y - xz \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}= \varepsilon z +\xi x y,
+			\dot{x} = \alpha x+\beta y+\varsigma yz \\
+			\dot{y} = \delta y - xz \\
+			\dot{z}= \varepsilon z +\xi x y,
 		\end{cases}
 $$
 
@@ -1576,9 +1576,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=x+y+yz, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=yz-xz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=1-\alpha xy -z
+			\dot{x}=x+y+yz, \\
+			\dot{y}=yz-xz, \\
+			\dot{z}=1-\alpha xy -z
 		\end{cases}
 $$
 
@@ -1594,9 +1594,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=\alpha\left(y-x\right), \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=\beta x - xz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=xy+\varsigma z,
+			\dot{x}=\alpha\left(y-x\right), \\
+			\dot{y}=\beta x - xz, \\
+			\dot{z}=xy+\varsigma z,
 		\end{cases}
 $$
 
@@ -1621,9 +1621,9 @@ $$
  
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=\alpha\left(y-x\right), \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=-\alpha x -\beta yz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=-\varsigma+y^2,
+			\dot{x}=\alpha\left(y-x\right), \\
+			\dot{y}=-\alpha x -\beta yz, \\
+			\dot{z}=-\varsigma+y^2,
 		\end{cases}
 $$
 
@@ -1650,9 +1650,9 @@ $$
 
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = y,	\\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = -x+yz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}= z+\alpha x^2-y^2-\beta,
+			\dot{x} = y,	\\
+			\dot{y} = -x+yz, \\
+			\dot{z}= z+\alpha x^2-y^2-\beta,
 		\end{cases}
 $$
 
@@ -1677,9 +1677,9 @@ $$
 
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t}=y, \\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t}=-x-\text{sgn}(z) y, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=y^2-\exp\left(-x^2\right)
+			\dot{x}=y, \\
+			\dot{y}=-x-\text{sgn}(z) y, \\
+			\dot{z}=y^2-\exp\left(-x^2\right)
 		\end{cases}
 $$
 
@@ -1693,9 +1693,9 @@ $$
 
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x+yz\right),	\\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = \beta y - \varepsilon xz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}= \varsigma y-\delta z,
+			\dot{x} = \alpha\left(y-x+yz\right),	\\
+			\dot{y} = \beta y - \varepsilon xz, \\
+			\dot{z}= \varsigma y-\delta z,
 		\end{cases}
 $$
 
@@ -1726,9 +1726,9 @@ $$
 
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha y -x,	\\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = -\beta x - z, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}= \varsigma z + xy^2-x,
+			\dot{x} = \alpha y -x,	\\
+			\dot{y} = -\beta x - z, \\
+			\dot{z}= \varsigma z + xy^2-x,
 		\end{cases}
 $$
 
@@ -1755,9 +1755,9 @@ $$
 
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y -x\right)+yz,	\\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = \beta x +\varsigma y -xz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}= -\delta z +x^2,
+			\dot{x} = \alpha\left(y -x\right)+yz,	\\
+			\dot{y} = \beta x +\varsigma y -xz, \\
+			\dot{z}= -\delta z +x^2,
 		\end{cases}
 $$
 
@@ -1786,9 +1786,9 @@ $$
 
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = -\alpha x + y + yz,	\\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = x-\alpha y +\beta xz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}= \varsigma z - \beta x y,
+			\dot{x} = -\alpha x + y + yz,	\\
+			\dot{y} = x-\alpha y +\beta xz, \\
+			\dot{z}= \varsigma z - \beta x y,
 		\end{cases}
 $$
 
@@ -1815,9 +1815,9 @@ $$
 
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x\right)+yz,	\\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = \beta x - \varsigma xz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=-\delta z + \sinh\left(xy\right),
+			\dot{x} = \alpha\left(y-x\right)+yz,	\\
+			\dot{y} = \beta x - \varsigma xz, \\
+			\dot{z}=-\delta z + \sinh\left(xy\right),
 		\end{cases}
 $$
 
@@ -1846,9 +1846,9 @@ $$
 
 $$ 
 \begin{cases}
-			\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x\right)+yz,	\\
-			\dfrac{\mathrm{d}y}{\mathrm{d}t} = \beta x - \varsigma xz, \\
-			\dfrac{\mathrm{d}z}{\mathrm{d}t}=-\delta z + \cosh\left(xy\right),
+			\dot{x} = \alpha\left(y-x\right)+yz,	\\
+			\dot{y} = \beta x - \varsigma xz, \\
+			\dot{z}=-\delta z + \cosh\left(xy\right),
 		\end{cases}
 $$
 
@@ -1877,9 +1877,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = y,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} =-x-yz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= \cosh y-1-\alpha\cos x^2-\beta\cos y,
+	\dot{x} = y,	\\
+	\dot{y} =-x-yz, \\
+	\dot{z}= \cosh y-1-\alpha\cos x^2-\beta\cos y,
 \end{cases}
 $$
 
@@ -1904,9 +1904,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x\right),	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = \varsigma y-xz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}=-\beta z + \delta x^2 +\varepsilon xy,
+	\dot{x} = \alpha\left(y-x\right),	\\
+	\dot{y} = \varsigma y-xz, \\
+	\dot{z}=-\beta z + \delta x^2 +\varepsilon xy,
 \end{cases}
 $$
 
@@ -1937,9 +1937,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = 1+yz,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = -xz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= y^2+\alpha yz,
+	\dot{x} = 1+yz,	\\
+	\dot{y} = -xz, \\
+	\dot{z}= y^2+\alpha yz,
 \end{cases}
 $$
 
@@ -1957,9 +1957,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = -x+\alpha y^2 - xy,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = xz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= z^2 -\beta xy,
+	\dot{x} = -x+\alpha y^2 - xy,	\\
+	\dot{y} = xz, \\
+	\dot{z}= z^2 -\beta xy,
 \end{cases}
 $$
 
@@ -1984,9 +1984,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = -\alpha x + xy,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = z^2 + xz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= y^2 -\beta yz,
+	\dot{x} = -\alpha x + xy,	\\
+	\dot{y} = z^2 + xz, \\
+	\dot{z}= y^2 -\beta yz,
 \end{cases}
 $$
 
@@ -2011,9 +2011,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = x + \alpha y^2-z^2,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = x^2-\beta y^2, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= xz,
+	\dot{x} = x + \alpha y^2-z^2,	\\
+	\dot{y} = x^2-\beta y^2, \\
+	\dot{z}= xz,
 \end{cases}
 $$
 
@@ -2038,9 +2038,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = -x + \beta y^2 + xz,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = xz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= -\alpha xy + yz,
+	\dot{x} = -x + \beta y^2 + xz,	\\
+	\dot{y} = xz, \\
+	\dot{z}= -\alpha xy + yz,
 \end{cases}
 $$
 
@@ -2065,9 +2065,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = -x+\alpha z^2,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = z^2 - \beta xz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= xy - yz,
+	\dot{x} = -x+\alpha z^2,	\\
+	\dot{y} = z^2 - \beta xz, \\
+	\dot{z}= xy - yz,
 \end{cases}
 $$
 
@@ -2092,9 +2092,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = y - z^2,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = -\alpha xz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= x^2 - yz,
+	\dot{x} = y - z^2,	\\
+	\dot{y} = -\alpha xz, \\
+	\dot{z}= x^2 - yz,
 \end{cases}
 $$
 
@@ -2112,9 +2112,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = -y-yz,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = x^2+\alpha xz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= z^2 + \beta yz,
+	\dot{x} = -y-yz,	\\
+	\dot{y} = x^2+\alpha xz, \\
+	\dot{z}= z^2 + \beta yz,
 \end{cases}
 $$
 
@@ -2139,9 +2139,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = y - y^2,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = \alpha z^2  + xy, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= -x^2 - \beta xy,
+	\dot{x} = y - y^2,	\\
+	\dot{y} = \alpha z^2  + xy, \\
+	\dot{z}= -x^2 - \beta xy,
 \end{cases}
 $$
 
@@ -2166,9 +2166,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = y,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = \alpha y^2 - xz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= x^2 +xy-\beta xz,
+	\dot{x} = y,	\\
+	\dot{y} = \alpha y^2 - xz, \\
+	\dot{z}= x^2 +xy-\beta xz,
 \end{cases}
 $$
 
@@ -2193,9 +2193,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = y + \alpha xz,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = xy - xz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= x^2 +\beta xy,
+	\dot{x} = y + \alpha xz,	\\
+	\dot{y} = xy - xz, \\
+	\dot{z}= x^2 +\beta xy,
 \end{cases}
 $$
 
@@ -2220,9 +2220,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = y + y^2 - \alpha yz,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = -z^2+\beta yz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= xy,
+	\dot{x} = y + y^2 - \alpha yz,	\\
+	\dot{y} = -z^2+\beta yz, \\
+	\dot{z}= xy,
 \end{cases}
 $$
 
@@ -2247,9 +2247,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = -y+x^2-y^2,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = -xz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= \alpha x + \beta xy,
+	\dot{x} = -y+x^2-y^2,	\\
+	\dot{y} = -xz, \\
+	\dot{z}= \alpha x + \beta xy,
 \end{cases}
 $$
 
@@ -2274,9 +2274,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = y - x\left(\beta+0.5\left(\alpha-\beta\right)\left(\text{sgn}\left(z+1\right)-\text{sgn}\left(z-1\right)\right)\right)+\dfrac{\varepsilon}{\vartheta}\cos\left(\vartheta t\right),	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = -\varsigma y-\varsigma x, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= \delta x,
+	\dot{x} = y - x\left(\beta+0.5\left(\alpha-\beta\right)\left(\text{sgn}\left(z+1\right)-\text{sgn}\left(z-1\right)\right)\right)+\dfrac{\varepsilon}{\vartheta}\cos\left(\vartheta t\right),	\\
+	\dot{y} = -\varsigma y-\varsigma x, \\
+	\dot{z}= \delta x,
 \end{cases}
 $$
 
@@ -2309,9 +2309,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = \cos\left(\beta t\right)+\alpha y\left(1+z^2-z^4\right),	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = x-y\cos\left(\beta t\right), \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= -\varsigma y,
+	\dot{x} = \cos\left(\beta t\right)+\alpha y\left(1+z^2-z^4\right),	\\
+	\dot{y} = x-y\cos\left(\beta t\right), \\
+	\dot{z}= -\varsigma y,
 \end{cases}
 $$
 
@@ -2338,9 +2338,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} =yz,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = x-y, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= \alpha\left|x\right|-\beta x^2,
+	\dot{x} =yz,	\\
+	\dot{y} = x-y, \\
+	\dot{z}= \alpha\left|x\right|-\beta x^2,
 \end{cases}
 $$
 
@@ -2365,9 +2365,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = -z,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = -x-z, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= 3x-\alpha y + x^2-z^2-yz+\beta,
+	\dot{x} = -z,	\\
+	\dot{y} = -x-z, \\
+	\dot{z}= 3x-\alpha y + x^2-z^2-yz+\beta,
 \end{cases}
 $$
 
@@ -2392,9 +2392,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha y,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = xz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= y-z-y^2,
+	\dot{x} = \alpha y,	\\
+	\dot{y} = xz, \\
+	\dot{z}= y-z-y^2,
 \end{cases}
 $$
 
@@ -2412,9 +2412,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha x\left(1 - \dfrac{x}{\varphi}\right) - \beta\left(y + z\right), \\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = -\varsigma y - \delta z + \xi x\left[\vartheta - \left(x - z\right)\right], \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t} = \eta z\left(\zeta x - \varepsilon\right),
+	\dot{x} = \alpha x\left(1 - \dfrac{x}{\varphi}\right) - \beta\left(y + z\right), \\
+	\dot{y} = -\varsigma y - \delta z + \xi x\left[\vartheta - \left(x - z\right)\right], \\
+	\dot{z} = \eta z\left(\zeta x - \varepsilon\right),
 \end{cases}
 $$
 
@@ -2455,9 +2455,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha x - 	\beta y + \varsigma z + 2\text{sgn}\left(\sin y\right),	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = -\delta xz+\xi+	\eta x, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= \zeta xy + \varepsilon yz + \varphi z + \vartheta,
+	\dot{x} = \alpha x - 	\beta y + \varsigma z + 2\text{sgn}\left(\sin y\right),	\\
+	\dot{y} = -\delta xz+\xi+	\eta x, \\
+	\dot{z}= \zeta xy + \varepsilon yz + \varphi z + \vartheta,
 \end{cases}
 $$
 
@@ -2497,9 +2497,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha \left(x-y\right),	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = -4\alpha y + xz+\varsigma x^3, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}=\alpha\delta z + x^3y+\beta z^2,
+	\dot{x} = \alpha \left(x-y\right),	\\
+	\dot{y} = -4\alpha y + xz+\varsigma x^3, \\
+	\dot{z}=\alpha\delta z + x^3y+\beta z^2,
 \end{cases}
 $$
 
@@ -2529,9 +2529,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha x - 	\beta y + \varsigma z + 2\tanh\left(100\sin y\right),	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = -\delta xz+\xi+	\eta x, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}= \zeta xy + \varepsilon yz + \varphi z + \vartheta,
+	\dot{x} = \alpha x - 	\beta y + \varsigma z + 2\tanh\left(100\sin y\right),	\\
+	\dot{y} = -\delta xz+\xi+	\eta x, \\
+	\dot{z}= \zeta xy + \varepsilon yz + \varphi z + \vartheta,
 \end{cases}
 $$
 
@@ -2572,9 +2572,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha x-\delta x^2-xy-xz,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = xy-\varsigma y, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}=\beta z-xz-\varepsilon z,
+	\dot{x} = \alpha x-\delta x^2-xy-xz,	\\
+	\dot{y} = xy-\varsigma y, \\
+	\dot{z}=\beta z-xz-\varepsilon z,
 \end{cases}
 $$
 
@@ -2604,9 +2604,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha y +\beta\left(0.1 + 0.5y^2\right)z,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = z, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}=x-\varsigma y -z - 2.682\cdot10^{-4}\sinh\left(4.0485x\right),
+	\dot{x} = \alpha y +\beta\left(0.1 + 0.5y^2\right)z,	\\
+	\dot{y} = z, \\
+	\dot{z}=x-\varsigma y -z - 2.682\cdot10^{-4}\sinh\left(4.0485x\right),
 \end{cases}
 $$
 
@@ -2632,9 +2632,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = y-2xz,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = -x+0.5\left(1-x^2\right)y-0.5yz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t}=0.1xy+\alpha x^2-0.8,
+	\dot{x} = y-2xz,	\\
+	\dot{y} = -x+0.5\left(1-x^2\right)y-0.5yz, \\
+	\dot{z}=0.1xy+\alpha x^2-0.8,
 \end{cases}
 $$
 
@@ -2652,9 +2652,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha  y + xz,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = -\beta x + yz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t} = 1 - x^2 - y^2,
+	\dot{x} = \alpha  y + xz,	\\
+	\dot{y} = -\beta x + yz, \\
+	\dot{z} = 1 - x^2 - y^2,
 \end{cases}
 $$
 
